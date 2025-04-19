@@ -1,8 +1,4 @@
-# YouTube Channels Categorization
-
-## Tech & Programming
-
-### Web Development
+## Web Development
 
 - [Fireship](https://www.youtube.com/@Fireship)
 - [WebDevSimplified](https://www.youtube.com/@WebDevSimplified)
@@ -65,7 +61,7 @@
 - [devworldconference](https://www.youtube.com/@devworldconference)
 - [viteconf](https://www.youtube.com/@viteconf)
 
-### JavaScript & TypeScript
+## JavaScript & TypeScript
 
 - [t3dotgg](https://www.youtube.com/@t3dotgg)
 - [mattpocockuk](https://www.youtube.com/@mattpocockuk)
@@ -85,7 +81,7 @@
 - [jherr](https://www.youtube.com/@jherr)
 - [LearnVue](https://www.youtube.com/@LearnVue)
 
-### DevOps & Cloud
+## DevOps & Cloud
 
 - [TechWorldwithNana](https://www.youtube.com/@TechWorldwithNana)
 - [DevOpsToolkit](https://www.youtube.com/@DevOpsToolkit)
@@ -107,7 +103,7 @@
 - [Platformatic](https://www.youtube.com/@platformatic)
 - [kubesimplify](https://www.youtube.com/@kubesimplify)
 
-### System Design & Architecture
+## System Design & Architecture
 
 - [ByteByteGo](https://www.youtube.com/@ByteByteGo)
 - [SystemDesignInterview](https://www.youtube.com/@SystemDesignInterview)
@@ -188,7 +184,7 @@
 - [teej_dv](https://www.youtube.com/@teej_dv)
 - [sithdev8206](https://www.youtube.com/@sithdev8206)
 
-### Low-Level & Performance
+## Low-Level & Performance
 
 - [LowLevelTV](https://www.youtube.com/@LowLevelTV)
 - [HighPerformanceProgramming](https://www.youtube.com/@HighPerformanceProgramming)
@@ -196,14 +192,14 @@
 - [CoreDumpped](https://www.youtube.com/@CoreDumpped)
 - [yousuckatprogramming](https://www.youtube.com/@yousuckatprogramming)
 
-### Database & Data Engineering
+## Database & Data Engineering
 
 - [PlanetScale](https://www.youtube.com/@PlanetScale)
 - [HasuraHQ](https://www.youtube.com/@HasuraHQ)
 - [GraphQLFoundation](https://www.youtube.com/@GraphQLFoundation)
 - [MongoDB](https://www.youtube.com/@MongoDB)
 
-### Programming Languages
+## Programming Languages
 
 - [Kotlin](https://www.youtube.com/@Kotlin)
 - [JavaIL](https://www.youtube.com/@JavaIL)
@@ -213,7 +209,7 @@
 - [nirparisian](https://www.youtube.com/@nirparisian)
 - [MelkeyDev](https://www.youtube.com/@MelkeyDev)
 
-### Computer Science & Algorithms
+## Computer Science & Algorithms
 
 - [NeetCode](https://www.youtube.com/@NeetCode)
 - [NeetCodeIO](https://www.youtube.com/@NeetCodeIO)
@@ -226,7 +222,7 @@
 - [DrTrefor](https://www.youtube.com/@DrTrefor)
 - [ProfessorLeonard](https://www.youtube.com/@ProfessorLeonard)
 
-### Developer Tools & Productivity
+## Developer Tools & Productivity
 
 - [GitHub](https://www.youtube.com/@GitHub)
 - [ChromeDevs](https://www.youtube.com/@ChromeDevs)
@@ -235,7 +231,7 @@
 - [gitbutlerapp](https://www.youtube.com/@gitbutlerapp)
 - [MicrosoftDeveloper](https://www.youtube.com/@MicrosoftDeveloper)
 
-### Tech Conferences & Communities
+## Tech Conferences & Communities
 
 - [GOTO-](https://www.youtube.com/@GOTO-)
 - [NDC](https://www.youtube.com/@NDC)
@@ -244,7 +240,7 @@
 - [NixCon](https://www.youtube.com/@NixCon)
 - [Reversim-summit](https://www.youtube.com/@Reversim-summit)
 
-### Tech Education & Tutorials
+## Tech Education & Tutorials
 
 - [freecodecamp](https://www.youtube.com/@freecodecamp)
 - [academind](https://www.youtube.com/@academind)
@@ -253,7 +249,7 @@
 - [CodingTech](https://www.youtube.com/@CodingTech)
 - [codebasics](https://www.youtube.com/@codebasics)
 
-### Tech News & Industry Insights
+## Tech News & Industry Insights
 
 - [ThePrimeagen](https://www.youtube.com/@ThePrimeagen)
 - [ThePrimeTimeagen](https://www.youtube.com/@ThePrimeTimeagen)
