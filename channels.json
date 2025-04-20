@@ -1,0 +1,894 @@
+{
+  "Fireship": {
+    "full_name": "Fireship",
+    "link": "https://www.youtube.com/@Fireship"
+  },
+  "WebDevSimplified": {
+    "full_name": "WebDevSimplified",
+    "link": "https://www.youtube.com/@WebDevSimplified"
+  },
+  "KevinPowell": {
+    "full_name": "KevinPowell",
+    "link": "https://www.youtube.com/@KevinPowell"
+  },
+  "TraversyMedia": {
+    "full_name": "TraversyMedia",
+    "link": "https://www.youtube.com/@TraversyMedia"
+  },
+  "WebDevCody": {
+    "full_name": "WebDevCody",
+    "link": "https://www.youtube.com/@WebDevCody"
+  },
+  "YouGottaLoveFrontend": {
+    "full_name": "YouGottaLoveFrontend",
+    "link": "https://www.youtube.com/@YouGottaLoveFrontend"
+  },
+  "uidotdev": {
+    "full_name": "uidotdev",
+    "link": "https://www.youtube.com/@uidotdev"
+  },
+  "TailwindLabs": {
+    "full_name": "TailwindLabs",
+    "link": "https://www.youtube.com/@TailwindLabs"
+  },
+  "VercelHQ": {
+    "full_name": "VercelHQ",
+    "link": "https://www.youtube.com/@VercelHQ"
+  },
+  "NetlifyApp": {
+    "full_name": "NetlifyApp",
+    "link": "https://www.youtube.com/@NetlifyApp"
+  },
+  "FrontendMasters": {
+    "full_name": "FrontendMasters",
+    "link": "https://www.youtube.com/@FrontendMasters"
+  },
+  "developedbyed": {
+    "full_name": "developedbyed",
+    "link": "https://www.youtube.com/@developedbyed"
+  },
+  "CodingWithLewis": {
+    "full_name": "CodingWithLewis",
+    "link": "https://www.youtube.com/@CodingWithLewis"
+  },
+  "BeJScommunity": {
+    "full_name": "BeJScommunity",
+    "link": "https://www.youtube.com/@BeJScommunity"
+  },
+  "node.jsisrael2393": {
+    "full_name": "node.jsisrael2393",
+    "link": "https://www.youtube.com/@node.jsisrael2393"
+  },
+  "nodetlv": {
+    "full_name": "nodetlv",
+    "link": "https://www.youtube.com/@nodetlv"
+  },
+  "Supabase": {
+    "full_name": "Supabase",
+    "link": "https://www.youtube.com/@Supabase"
+  },
+  "Builderio": {
+    "full_name": "Builderio",
+    "link": "https://www.youtube.com/@Builderio"
+  },
+  "CallstackEngineers": {
+    "full_name": "CallstackEngineers",
+    "link": "https://www.youtube.com/@CallstackEngineers"
+  },
+  "rich_harris": {
+    "full_name": "rich_harris",
+    "link": "https://www.youtube.com/@rich_harris"
+  },
+  "Huntabyte": {
+    "full_name": "Huntabyte",
+    "link": "https://www.youtube.com/@Huntabyte"
+  },
+  "NoBoilerplate": {
+    "full_name": "NoBoilerplate",
+    "link": "https://www.youtube.com/@NoBoilerplate"
+  },
+  "DanAbramov8": {
+    "full_name": "DanAbramov8",
+    "link": "https://www.youtube.com/@DanAbramov8"
+  },
+  "basarat": {
+    "full_name": "basarat",
+    "link": "https://www.youtube.com/@basarat"
+  },
+  "LucasPaganiniWeb": {
+    "full_name": "LucasPaganiniWeb",
+    "link": "https://www.youtube.com/@LucasPaganiniWeb"
+  },
+  "amigoscode": {
+    "full_name": "amigoscode",
+    "link": "https://www.youtube.com/@amigoscode"
+  },
+  "CodingEntrepreneurs": {
+    "full_name": "CodingEntrepreneurs",
+    "link": "https://www.youtube.com/@CodingEntrepreneurs"
+  },
+  "jimshapedcoding": {
+    "full_name": "jimshapedcoding",
+    "link": "https://www.youtube.com/@jimshapedcoding"
+  },
+  "sentdex": {
+    "full_name": "sentdex",
+    "link": "https://www.youtube.com/@sentdex"
+  },
+  "bawad": {
+    "full_name": "bawad",
+    "link": "https://www.youtube.com/@bawad"
+  },
+  "AndySterkowitz": {
+    "full_name": "AndySterkowitz",
+    "link": "https://www.youtube.com/@AndySterkowitz"
+  },
+  "gilesmcmullen": {
+    "full_name": "gilesmcmullen",
+    "link": "https://www.youtube.com/@gilesmcmullen"
+  },
+  "hatechnolog": {
+    "full_name": "hatechnolog",
+    "link": "https://www.youtube.com/@hatechnolog"
+  },
+  "simplyexplained": {
+    "full_name": "simplyexplained",
+    "link": "https://www.youtube.com/@simplyexplained"
+  },
+  "codebreakthrough": {
+    "full_name": "codebreakthrough",
+    "link": "https://www.youtube.com/@codebreakthrough"
+  },
+  "kr1ms0n44": {
+    "full_name": "kr1ms0n44",
+    "link": "https://www.youtube.com/@kr1ms0n44"
+  },
+  "ChrisTitusTech": {
+    "full_name": "ChrisTitusTech",
+    "link": "https://www.youtube.com/@ChrisTitusTech"
+  },
+  "Hallden_": {
+    "full_name": "Hallden_",
+    "link": "https://www.youtube.com/@Hallden_"
+  },
+  "coreyms": {
+    "full_name": "coreyms",
+    "link": "https://www.youtube.com/@coreyms"
+  },
+  "metallicode": {
+    "full_name": "metallicode",
+    "link": "https://www.youtube.com/@metallicode"
+  },
+  "codingwithmitch": {
+    "full_name": "codingwithmitch",
+    "link": "https://www.youtube.com/@codingwithmitch"
+  },
+  "PhilippLackner": {
+    "full_name": "PhilippLackner",
+    "link": "https://www.youtube.com/@PhilippLackner"
+  },
+  "leerob": {
+    "full_name": "leerob",
+    "link": "https://www.youtube.com/@leerob"
+  },
+  "trash_dev": {
+    "full_name": "trash_dev",
+    "link": "https://www.youtube.com/@trash_dev"
+  },
+  "StudyingWithAlex": {
+    "full_name": "StudyingWithAlex",
+    "link": "https://www.youtube.com/@StudyingWithAlex"
+  },
+  "Indently": {
+    "full_name": "Indently",
+    "link": "https://www.youtube.com/@Indently"
+  },
+  "EarthlyTech": {
+    "full_name": "EarthlyTech",
+    "link": "https://www.youtube.com/@EarthlyTech"
+  },
+  "RahulPandeyrkp": {
+    "full_name": "RahulPandeyrkp",
+    "link": "https://www.youtube.com/@RahulPandeyrkp"
+  },
+  "coderized": {
+    "full_name": "coderized",
+    "link": "https://www.youtube.com/@coderized"
+  },
+  "anthonywritescode": {
+    "full_name": "anthonywritescode",
+    "link": "https://www.youtube.com/@anthonywritescode"
+  },
+  "_noisecode": {
+    "full_name": "_noisecode",
+    "link": "https://www.youtube.com/@_noisecode"
+  },
+  "dcode-software": {
+    "full_name": "dcode-software",
+    "link": "https://www.youtube.com/@dcode-software"
+  },
+  "SonnySangha": {
+    "full_name": "SonnySangha",
+    "link": "https://www.youtube.com/@SonnySangha"
+  },
+  "TonyAlicea": {
+    "full_name": "TonyAlicea",
+    "link": "https://www.youtube.com/@TonyAlicea"
+  },
+  "ChristopherOkhravi": {
+    "full_name": "ChristopherOkhravi",
+    "link": "https://www.youtube.com/@ChristopherOkhravi"
+  },
+  "TheCherno": {
+    "full_name": "TheCherno",
+    "link": "https://www.youtube.com/@TheCherno"
+  },
+  "BroCodez": {
+    "full_name": "BroCodez",
+    "link": "https://www.youtube.com/@BroCodez"
+  },
+  "AllThingsSecured": {
+    "full_name": "AllThingsSecured",
+    "link": "https://www.youtube.com/@AllThingsSecured"
+  },
+  "devworldconference": {
+    "full_name": "devworldconference",
+    "link": "https://www.youtube.com/@devworldconference"
+  },
+  "viteconf": {
+    "full_name": "viteconf",
+    "link": "https://www.youtube.com/@viteconf"
+  },
+  "t3dotgg": {
+    "full_name": "t3dotgg",
+    "link": "https://www.youtube.com/@t3dotgg"
+  },
+  "mattpocockuk": {
+    "full_name": "mattpocockuk",
+    "link": "https://www.youtube.com/@mattpocockuk"
+  },
+  "MichiganTypeScript": {
+    "full_name": "MichiganTypeScript",
+    "link": "https://www.youtube.com/@MichiganTypeScript"
+  },
+  "javascriptisrael": {
+    "full_name": "javascriptisrael",
+    "link": "https://www.youtube.com/@javascriptisrael"
+  },
+  "JavaScriptunderthehoodof": {
+    "full_name": "JavaScriptunderthehoodof",
+    "link": "https://www.youtube.com/@JavaScriptunderthehoodof"
+  },
+  "JSWORLDConference": {
+    "full_name": "JSWORLDConference",
+    "link": "https://www.youtube.com/@JSWORLDConference"
+  },
+  "jsconf_": {
+    "full_name": "jsconf_",
+    "link": "https://www.youtube.com/@jsconf_"
+  },
+  "nextjsil": {
+    "full_name": "nextjsil",
+    "link": "https://www.youtube.com/@nextjsil"
+  },
+  "ReactNext": {
+    "full_name": "ReactNext",
+    "link": "https://www.youtube.com/@ReactNext"
+  },
+  "ReactConfOfficial": {
+    "full_name": "ReactConfOfficial",
+    "link": "https://www.youtube.com/@ReactConfOfficial"
+  },
+  "deno_land": {
+    "full_name": "deno_land",
+    "link": "https://www.youtube.com/@deno_land"
+  },
+  "ByteGrad": {
+    "full_name": "ByteGrad",
+    "link": "https://www.youtube.com/@ByteGrad"
+  },
+  "typecraft_dev": {
+    "full_name": "typecraft_dev",
+    "link": "https://www.youtube.com/@typecraft_dev"
+  },
+  "_ericelliott": {
+    "full_name": "_ericelliott",
+    "link": "https://www.youtube.com/@_ericelliott"
+  },
+  "bholmesdev": {
+    "full_name": "bholmesdev",
+    "link": "https://www.youtube.com/@bholmesdev"
+  },
+  "jherr": {
+    "full_name": "jherr",
+    "link": "https://www.youtube.com/@jherr"
+  },
+  "LearnVue": {
+    "full_name": "LearnVue",
+    "link": "https://www.youtube.com/@LearnVue"
+  },
+  "TechWorldwithNana": {
+    "full_name": "TechWorldwithNana",
+    "link": "https://www.youtube.com/@TechWorldwithNana"
+  },
+  "DevOpsToolkit": {
+    "full_name": "DevOpsToolkit",
+    "link": "https://www.youtube.com/@DevOpsToolkit"
+  },
+  "KodeKloud": {
+    "full_name": "KodeKloud",
+    "link": "https://www.youtube.com/@KodeKloud"
+  },
+  "amazonwebservicesisrael": {
+    "full_name": "amazonwebservicesisrael",
+    "link": "https://www.youtube.com/@amazonwebservicesisrael"
+  },
+  "DevOpsJourney": {
+    "full_name": "DevOpsJourney",
+    "link": "https://www.youtube.com/@DevOpsJourney"
+  },
+  "DevOpsDirective": {
+    "full_name": "DevOpsDirective",
+    "link": "https://www.youtube.com/@DevOpsDirective"
+  },
+  "PlatformEngineering": {
+    "full_name": "PlatformEngineering",
+    "link": "https://www.youtube.com/@PlatformEngineering"
+  },
+  "ContainersfromtheCouch": {
+    "full_name": "ContainersfromtheCouch",
+    "link": "https://www.youtube.com/@ContainersfromtheCouch"
+  },
+  "CloudBeesTV": {
+    "full_name": "CloudBeesTV",
+    "link": "https://www.youtube.com/@CloudBeesTV"
+  },
+  "betterstack": {
+    "full_name": "betterstack",
+    "link": "https://www.youtube.com/@betterstack"
+  },
+  "Sentry-monitoring": {
+    "full_name": "Sentry-monitoring",
+    "link": "https://www.youtube.com/@Sentry-monitoring"
+  },
+  "Netdata": {
+    "full_name": "Netdata",
+    "link": "https://www.youtube.com/@Netdata"
+  },
+  "Temporalio": {
+    "full_name": "Temporalio",
+    "link": "https://www.youtube.com/@Temporalio"
+  },
+  "dagger-io": {
+    "full_name": "dagger-io",
+    "link": "https://www.youtube.com/@dagger-io"
+  },
+  "Virbox": {
+    "full_name": "Virbox",
+    "link": "https://www.youtube.com/@Virbox"
+  },
+  "nodejs-foundation": {
+    "full_name": "nodejs-foundation",
+    "link": "https://www.youtube.com/@nodejs-foundation"
+  },
+  "kimylamp": {
+    "full_name": "kimylamp",
+    "link": "https://www.youtube.com/@kimylamp"
+  },
+  "platformatic": {
+    "full_name": "Platformatic",
+    "link": "https://www.youtube.com/@platformatic"
+  },
+  "kubesimplify": {
+    "full_name": "kubesimplify",
+    "link": "https://www.youtube.com/@kubesimplify"
+  },
+  "ByteByteGo": {
+    "full_name": "ByteByteGo",
+    "link": "https://www.youtube.com/@ByteByteGo"
+  },
+  "SystemDesignInterview": {
+    "full_name": "SystemDesignInterview",
+    "link": "https://www.youtube.com/@SystemDesignInterview"
+  },
+  "SystemDesignSchool": {
+    "full_name": "SystemDesignSchool",
+    "link": "https://www.youtube.com/@SystemDesignSchool"
+  },
+  "pragmaticengineer": {
+    "full_name": "pragmaticengineer",
+    "link": "https://www.youtube.com/@pragmaticengineer"
+  },
+  "ModernSoftwareEngineeringYT": {
+    "full_name": "ModernSoftwareEngineeringYT",
+    "link": "https://www.youtube.com/@ModernSoftwareEngineeringYT"
+  },
+  "ByteMonk": {
+    "full_name": "ByteMonk",
+    "link": "https://www.youtube.com/@ByteMonk"
+  },
+  "awesome-coding": {
+    "full_name": "awesome-coding",
+    "link": "https://www.youtube.com/@awesome-coding"
+  },
+  "leetwito": {
+    "full_name": "leetwito",
+    "link": "https://www.youtube.com/@leetwito"
+  },
+  "daveebbelaar": {
+    "full_name": "daveebbelaar",
+    "link": "https://www.youtube.com/@daveebbelaar"
+  },
+  "GregHogg": {
+    "full_name": "GregHogg",
+    "link": "https://www.youtube.com/@GregHogg"
+  },
+  "CodingJesus": {
+    "full_name": "CodingJesus",
+    "link": "https://www.youtube.com/@CodingJesus"
+  },
+  "TechWithTim": {
+    "full_name": "TechWithTim",
+    "link": "https://www.youtube.com/@TechWithTim"
+  },
+  "AntonPutra": {
+    "full_name": "AntonPutra",
+    "link": "https://www.youtube.com/@AntonPutra"
+  },
+  "IBMTechnology": {
+    "full_name": "IBMTechnology",
+    "link": "https://www.youtube.com/@IBMTechnology"
+  },
+  "outside-the-box": {
+    "full_name": "outside-the-box",
+    "link": "https://www.youtube.com/@outside-the-box"
+  },
+  "RobertElderSoftware": {
+    "full_name": "RobertElderSoftware",
+    "link": "https://www.youtube.com/@RobertElderSoftware"
+  },
+  "NateBJones": {
+    "full_name": "NateBJones",
+    "link": "https://www.youtube.com/@NateBJones"
+  },
+  "NetworkChuck": {
+    "full_name": "NetworkChuck",
+    "link": "https://www.youtube.com/@NetworkChuck"
+  },
+  "TCMSecurityAcademy": {
+    "full_name": "TCMSecurityAcademy",
+    "link": "https://www.youtube.com/@TCMSecurityAcademy"
+  },
+  "ArjanCodes": {
+    "full_name": "ArjanCodes",
+    "link": "https://www.youtube.com/@ArjanCodes"
+  },
+  "DXSoftware": {
+    "full_name": "DXSoftware",
+    "link": "https://www.youtube.com/@DXSoftware"
+  },
+  "elie2222": {
+    "full_name": "elie2222",
+    "link": "https://www.youtube.com/@elie2222"
+  },
+  "JustinGarrison": {
+    "full_name": "JustinGarrison",
+    "link": "https://www.youtube.com/@JustinGarrison"
+  },
+  "NetNinja": {
+    "full_name": "NetNinja",
+    "link": "https://www.youtube.com/@NetNinja"
+  },
+  "beyondfireship": {
+    "full_name": "beyondfireship",
+    "link": "https://www.youtube.com/@beyondfireship"
+  },
+  "codetv-dev": {
+    "full_name": "codetv-dev",
+    "link": "https://www.youtube.com/@codetv-dev"
+  },
+  "cncf": {
+    "full_name": "cncf",
+    "link": "https://www.youtube.com/@cncf"
+  },
+  "MixMorris": {
+    "full_name": "MixMorris",
+    "link": "https://www.youtube.com/@MixMorris"
+  },
+  "UsenixOrg": {
+    "full_name": "UsenixOrg",
+    "link": "https://www.youtube.com/@UsenixOrg"
+  },
+  "marc-lou": {
+    "full_name": "marc-lou",
+    "link": "https://www.youtube.com/@marc-lou"
+  },
+  "scigeeksuniverse": {
+    "full_name": "scigeeksuniverse",
+    "link": "https://www.youtube.com/@scigeeksuniverse"
+  },
+  "glich.stream": {
+    "full_name": "glich.stream",
+    "link": "https://www.youtube.com/@glich.stream"
+  },
+  "gkcs": {
+    "full_name": "gkcs",
+    "link": "https://www.youtube.com/@gkcs"
+  },
+  "code-maven-in-hebrew": {
+    "full_name": "code-maven-in-hebrew",
+    "link": "https://www.youtube.com/@code-maven-in-hebrew"
+  },
+  "Foad_Alavi": {
+    "full_name": "Foad_Alavi",
+    "link": "https://www.youtube.com/@Foad_Alavi"
+  },
+  "Bitdev": {
+    "full_name": "Bitdev",
+    "link": "https://www.youtube.com/@Bitdev"
+  },
+  "bmdavis419": {
+    "full_name": "bmdavis419",
+    "link": "https://www.youtube.com/@bmdavis419"
+  },
+  "ryansolid": {
+    "full_name": "ryansolid",
+    "link": "https://www.youtube.com/@ryansolid"
+  },
+  "kantancoding": {
+    "full_name": "kantancoding",
+    "link": "https://www.youtube.com/@kantancoding"
+  },
+  "codingincafe": {
+    "full_name": "codingincafe",
+    "link": "https://www.youtube.com/@codingincafe"
+  },
+  "WesBos": {
+    "full_name": "WesBos",
+    "link": "https://www.youtube.com/@WesBos"
+  },
+  "CoderOne": {
+    "full_name": "CoderOne",
+    "link": "https://www.youtube.com/@CoderOne"
+  },
+  "MarcelDempers": {
+    "full_name": "MarcelDempers",
+    "link": "https://www.youtube.com/@MarcelDempers"
+  },
+  "SidTheITGuy": {
+    "full_name": "SidTheITGuy",
+    "link": "https://www.youtube.com/@SidTheITGuy"
+  },
+  "tomwildenhain": {
+    "full_name": "tomwildenhain",
+    "link": "https://www.youtube.com/@tomwildenhain"
+  },
+  "built-from-scratch": {
+    "full_name": "built-from-scratch",
+    "link": "https://www.youtube.com/@built-from-scratch"
+  },
+  "FaceDevStuff": {
+    "full_name": "FaceDevStuff",
+    "link": "https://www.youtube.com/@FaceDevStuff"
+  },
+  "dreamsofautonomy": {
+    "full_name": "dreamsofautonomy",
+    "link": "https://www.youtube.com/@dreamsofautonomy"
+  },
+  "debugagent": {
+    "full_name": "debugagent",
+    "link": "https://www.youtube.com/@debugagent"
+  },
+  "BeABetterDev": {
+    "full_name": "BeABetterDev",
+    "link": "https://www.youtube.com/@BeABetterDev"
+  },
+  "TechWithNikola": {
+    "full_name": "TechWithNikola",
+    "link": "https://www.youtube.com/@TechWithNikola"
+  },
+  "InternetOfBugs": {
+    "full_name": "InternetOfBugs",
+    "link": "https://www.youtube.com/@InternetOfBugs"
+  },
+  "mr_mux408": {
+    "full_name": "mr_mux408",
+    "link": "https://www.youtube.com/@mr_mux408"
+  },
+  "OpenSauced": {
+    "full_name": "OpenSauced",
+    "link": "https://www.youtube.com/@OpenSauced"
+  },
+  "amantinband": {
+    "full_name": "amantinband",
+    "link": "https://www.youtube.com/@amantinband"
+  },
+  "jonhoo": {
+    "full_name": "jonhoo",
+    "link": "https://www.youtube.com/@jonhoo"
+  },
+  "navekeng": {
+    "full_name": "navekeng",
+    "link": "https://www.youtube.com/@navekeng"
+  },
+  "MichaelSambol": {
+    "full_name": "MichaelSambol",
+    "link": "https://www.youtube.com/@MichaelSambol"
+  },
+  "PolylogCS": {
+    "full_name": "PolylogCS",
+    "link": "https://www.youtube.com/@PolylogCS"
+  },
+  "Steve8708": {
+    "full_name": "Steve8708",
+    "link": "https://www.youtube.com/@Steve8708"
+  },
+  "Barkuni": {
+    "full_name": "Barkuni",
+    "link": "https://www.youtube.com/@Barkuni"
+  },
+  "andrew-burgess": {
+    "full_name": "andrew-burgess",
+    "link": "https://www.youtube.com/@andrew-burgess"
+  },
+  "negevDev": {
+    "full_name": "negevDev",
+    "link": "https://www.youtube.com/@negevDev"
+  },
+  "CodeAesthetic": {
+    "full_name": "CodeAesthetic",
+    "link": "https://www.youtube.com/@CodeAesthetic"
+  },
+  "AlexMercedCoder": {
+    "full_name": "AlexMercedCoder",
+    "link": "https://www.youtube.com/@AlexMercedCoder"
+  },
+  "pullrequest1566": {
+    "full_name": "pullrequest1566",
+    "link": "https://www.youtube.com/@pullrequest1566"
+  },
+  "briantwill": {
+    "full_name": "briantwill",
+    "link": "https://www.youtube.com/@briantwill"
+  },
+  "interviewpen": {
+    "full_name": "interviewpen",
+    "link": "https://www.youtube.com/@interviewpen"
+  },
+  "SpanningTree": {
+    "full_name": "SpanningTree",
+    "link": "https://www.youtube.com/@SpanningTree"
+  },
+  "hackerdashery": {
+    "full_name": "hackerdashery",
+    "link": "https://www.youtube.com/@hackerdashery"
+  },
+  "kevinfaang": {
+    "full_name": "kevinfaang",
+    "link": "https://www.youtube.com/@kevinfaang"
+  },
+  "sudocode": {
+    "full_name": "sudocode",
+    "link": "https://www.youtube.com/@sudocode"
+  },
+  "bigboxSWE": {
+    "full_name": "bigboxSWE",
+    "link": "https://www.youtube.com/@bigboxSWE"
+  },
+  "MollyRocket": {
+    "full_name": "MollyRocket",
+    "link": "https://www.youtube.com/@MollyRocket"
+  },
+  "dreamsofcode": {
+    "full_name": "dreamsofcode",
+    "link": "https://www.youtube.com/@dreamsofcode"
+  },
+  "codetothemoon": {
+    "full_name": "codetothemoon",
+    "link": "https://www.youtube.com/@codetothemoon"
+  },
+  "teej_dv": {
+    "full_name": "teej_dv",
+    "link": "https://www.youtube.com/@teej_dv"
+  },
+  "sithdev8206": {
+    "full_name": "sithdev8206",
+    "link": "https://www.youtube.com/@sithdev8206"
+  },
+  "LowLevelTV": {
+    "full_name": "LowLevelTV",
+    "link": "https://www.youtube.com/@LowLevelTV"
+  },
+  "HighPerformanceProgramming": {
+    "full_name": "HighPerformanceProgramming",
+    "link": "https://www.youtube.com/@HighPerformanceProgramming"
+  },
+  "LowByteProductions": {
+    "full_name": "LowByteProductions",
+    "link": "https://www.youtube.com/@LowByteProductions"
+  },
+  "CoreDumpped": {
+    "full_name": "CoreDumpped",
+    "link": "https://www.youtube.com/@CoreDumpped"
+  },
+  "yousuckatprogramming": {
+    "full_name": "yousuckatprogramming",
+    "link": "https://www.youtube.com/@yousuckatprogramming"
+  },
+  "PlanetScale": {
+    "full_name": "PlanetScale",
+    "link": "https://www.youtube.com/@PlanetScale"
+  },
+  "HasuraHQ": {
+    "full_name": "HasuraHQ",
+    "link": "https://www.youtube.com/@HasuraHQ"
+  },
+  "GraphQLFoundation": {
+    "full_name": "GraphQLFoundation",
+    "link": "https://www.youtube.com/@GraphQLFoundation"
+  },
+  "MongoDB": {
+    "full_name": "MongoDB",
+    "link": "https://www.youtube.com/@MongoDB"
+  },
+  "Kotlin": {
+    "full_name": "Kotlin",
+    "link": "https://www.youtube.com/@Kotlin"
+  },
+  "JavaIL": {
+    "full_name": "JavaIL",
+    "link": "https://www.youtube.com/@JavaIL"
+  },
+  "letsgetrusty": {
+    "full_name": "letsgetrusty",
+    "link": "https://www.youtube.com/@letsgetrusty"
+  },
+  "Python": {
+    "full_name": "Python",
+    "link": "https://www.youtube.com/@Python"
+  },
+  "Telusko": {
+    "full_name": "Telusko",
+    "link": "https://www.youtube.com/@Telusko"
+  },
+  "nirparisian": {
+    "full_name": "nirparisian",
+    "link": "https://www.youtube.com/@nirparisian"
+  },
+  "MelkeyDev": {
+    "full_name": "MelkeyDev",
+    "link": "https://www.youtube.com/@MelkeyDev"
+  },
+  "NeetCode": {
+    "full_name": "NeetCode",
+    "link": "https://www.youtube.com/@NeetCode"
+  },
+  "NeetCodeIO": {
+    "full_name": "NeetCodeIO",
+    "link": "https://www.youtube.com/@NeetCodeIO"
+  },
+  "Computerphile": {
+    "full_name": "Computerphile",
+    "link": "https://www.youtube.com/@Computerphile"
+  },
+  "abdul_bari": {
+    "full_name": "abdul_bari",
+    "link": "https://www.youtube.com/@abdul_bari"
+  },
+  "cs50": {
+    "full_name": "cs50",
+    "link": "https://www.youtube.com/@cs50"
+  },
+  "GrantSanderson": {
+    "full_name": "GrantSanderson",
+    "link": "https://www.youtube.com/@GrantSanderson"
+  },
+  "3blue1brown": {
+    "full_name": "1Blue1Brown",
+    "link": "https://www.youtube.com/@3blue1brown"
+  },
+  "WelchLabsVideo": {
+    "full_name": "WelchLabsVideo",
+    "link": "https://www.youtube.com/@WelchLabsVideo"
+  },
+  "DrTrefor": {
+    "full_name": "DrTrefor",
+    "link": "https://www.youtube.com/@DrTrefor"
+  },
+  "ProfessorLeonard": {
+    "full_name": "ProfessorLeonard",
+    "link": "https://www.youtube.com/@ProfessorLeonard"
+  },
+  "GitHub": {
+    "full_name": "GitHub",
+    "link": "https://www.youtube.com/@GitHub"
+  },
+  "ChromeDevs": {
+    "full_name": "ChromeDevs",
+    "link": "https://www.youtube.com/@ChromeDevs"
+  },
+  "raycastapp": {
+    "full_name": "raycastapp",
+    "link": "https://www.youtube.com/@raycastapp"
+  },
+  "warpdotdev": {
+    "full_name": "warpdotdev",
+    "link": "https://www.youtube.com/@warpdotdev"
+  },
+  "gitbutlerapp": {
+    "full_name": "gitbutlerapp",
+    "link": "https://www.youtube.com/@gitbutlerapp"
+  },
+  "MicrosoftDeveloper": {
+    "full_name": "MicrosoftDeveloper",
+    "link": "https://www.youtube.com/@MicrosoftDeveloper"
+  },
+  "GOTO-": {
+    "full_name": "GOTO-",
+    "link": "https://www.youtube.com/@GOTO-"
+  },
+  "NDC": {
+    "full_name": "NDC",
+    "link": "https://www.youtube.com/@NDC"
+  },
+  "StrangeLoopConf": {
+    "full_name": "StrangeLoopConf",
+    "link": "https://www.youtube.com/@StrangeLoopConf"
+  },
+  "linuxconfau": {
+    "full_name": "linuxconfau",
+    "link": "https://www.youtube.com/@linuxconfau"
+  },
+  "NixCon": {
+    "full_name": "NixCon",
+    "link": "https://www.youtube.com/@NixCon"
+  },
+  "Reversim-summit": {
+    "full_name": "Reversim-summit",
+    "link": "https://www.youtube.com/@Reversim-summit"
+  },
+  "freecodecamp": {
+    "full_name": "freecodecamp",
+    "link": "https://www.youtube.com/@freecodecamp"
+  },
+  "academind": {
+    "full_name": "academind",
+    "link": "https://www.youtube.com/@academind"
+  },
+  "programmingwithmosh": {
+    "full_name": "programmingwithmosh",
+    "link": "https://www.youtube.com/@programmingwithmosh"
+  },
+  "TheCodingTrain": {
+    "full_name": "TheCodingTrain",
+    "link": "https://www.youtube.com/@TheCodingTrain"
+  },
+  "CodingTech": {
+    "full_name": "CodingTech",
+    "link": "https://www.youtube.com/@CodingTech"
+  },
+  "codebasics": {
+    "full_name": "codebasics",
+    "link": "https://www.youtube.com/@codebasics"
+  },
+  "ThePrimeagen": {
+    "full_name": "ThePrimeagen",
+    "link": "https://www.youtube.com/@ThePrimeagen"
+  },
+  "ThePrimeTimeagen": {
+    "full_name": "ThePrimeTimeagen",
+    "link": "https://www.youtube.com/@ThePrimeTimeagen"
+  },
+  "Changelog": {
+    "full_name": "Changelog",
+    "link": "https://www.youtube.com/@Changelog"
+  },
+  "syntaxfm": {
+    "full_name": "syntaxfm",
+    "link": "https://www.youtube.com/@syntaxfm"
+  },
+  "devtoolsfm": {
+    "full_name": "devtoolsfm",
+    "link": "https://www.youtube.com/@devtoolsfm"
+  }
+}

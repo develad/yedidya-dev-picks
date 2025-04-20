@@ -1,17 +1,8 @@
 ---
-import fs from 'fs';
-import path from 'path';
-import { parseChannels } from '../utils/parseChannels';
+import { loadChannels } from '../utils/channels';
 import CategorySection from '../components/CategorySection.astro';
 
-// Read the markdown file
-const markdownContent = fs.readFileSync(
-	path.join(process.cwd(), 'categorized_channels.md'),
-	'utf-8'
-);
-
-// Parse the channels
-const categories = parseChannels(markdownContent);
+const categories = loadChannels();
 ---
 
 <!DOCTYPE html>
@@ -21,7 +12,7 @@ const categories = parseChannels(markdownContent);
 		<meta name="viewport" content="width=device-width" />
 		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 		<meta name="generator" content={Astro.generator} />
-		<title>Yedidya’s Dev Picks</title>
+		<title>Yedidya's Dev Picks</title>
 		<link rel="preconnect" href="https://fonts.googleapis.com">
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 		<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -30,7 +21,7 @@ const categories = parseChannels(markdownContent);
 		<header class="hero">
 			<div class="container">
 				<div class="hero-content">
-					<h1>Yedidya’s Dev Picks</h1>
+					<h1>Yedidya's Dev Picks</h1>
 					<p class="subtitle">Your curated collection of educational YouTube channels for developers</p>
 				</div>
 				<div class="hero-stats">
