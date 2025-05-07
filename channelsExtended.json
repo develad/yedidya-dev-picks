@@ -1,0 +1,1557 @@
+{
+  "TechGym": {
+    "full_name": "TechGym",
+    "link": "https://www.youtube.com/@techgymisrael",
+    "title": "TechGym",
+    "description": "",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/TechGym.jpeg"
+  },
+  "Fireship": {
+    "full_name": "Fireship",
+    "link": "https://www.youtube.com/@Fireship",
+    "title": "Fireship",
+    "description": "High-intensity ⚡ code tutorials and tech news to help you ship your app faster. New videos every week covering the topics every programmer should know. \n\nThe original home of #100SecondsOfCode #TheCodeReport and #CodeThisNotThat. Created by Jeff Delaney. \n\nBuilding an app? Get project support, advanced full courses, and more at https://fireship.io",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/Fireship.jpeg"
+  },
+  "WebDevSimplified": {
+    "full_name": "WebDevSimplified",
+    "link": "https://www.youtube.com/@WebDevSimplified",
+    "title": "Web Dev Simplified",
+    "description": "Web Dev Simplified is all about teaching web development skills and techniques in an efficient and practical manner. If you are just getting started in web development Web Dev Simplified has all the tools you need to learn the newest and most popular technologies to convert you from a no stack to full stack developer. Web Dev Simplified also deep dives into advanced topics using the latest best practices for you seasoned web developers.\n\nI started Web Dev Simplified in order to share my passion for web development, and do what I truly love. Teach and inspire new web developers. I have been in love with full stack web development since 2015 when I did my first internship as a web developer. Ever since then I have pursued my passion, learning everything there is to know about web development. Over the years I have taught many colleagues and friends the joys of web development, and cannot wait to teach you.\n\nThank you for watching!",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/WebDevSimplified.jpeg"
+  },
+  "KevinPowell": {
+    "full_name": "KevinPowell",
+    "link": "https://www.youtube.com/@KevinPowell",
+    "title": "Kevin Powell",
+    "description": "Helping you learn how to make the web, and make it look good while you're at it.\n\nWith weekly videos and shorts, I'll be bringing you How Tos and Tutorials, as well as simple tips and tricks, with a big focus on helping people see how wonderful CSS is!",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/KevinPowell.jpeg"
+  },
+  "TraversyMedia": {
+    "full_name": "TraversyMedia",
+    "link": "https://www.youtube.com/@TraversyMedia",
+    "title": "Traversy Media",
+    "description": "Traversy Media features the best online web development and programming tutorials for all of the latest web technologies from the building blocks of HTML, CSS & JavaScript to frontend frameworks like React and Vue to backend technologies like Node.js, Python and PHP",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/TraversyMedia.jpeg"
+  },
+  "WebDevCody": {
+    "full_name": "WebDevCody",
+    "link": "https://www.youtube.com/@WebDevCody",
+    "title": "Web Dev Cody",
+    "description": "This channel is a collection of various programming videos, tutorials, projects, talks, or anything software engineering and programming related.  If you are new to coding and want to learn how to program or get a job in the industry, be sure to subscribe to my channel.  There is a lot of great content on this channel to help you out in your coding goals.",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/WebDevCody.jpeg"
+  },
+  "YouGottaLoveFrontend": {
+    "full_name": "YouGottaLoveFrontend",
+    "link": "https://www.youtube.com/@YouGottaLoveFrontend",
+    "title": "You Gotta Love Frontend",
+    "description": "The largest international frontend conference in the Middle East and East Europe",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/YouGottaLoveFrontend.jpeg"
+  },
+  "uidotdev": {
+    "full_name": "uidotdev",
+    "link": "https://www.youtube.com/@uidotdev",
+    "title": "ui․dev",
+    "description": "Telling the stories of the JavaScript ecosystem\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/uidotdev.jpeg"
+  },
+  "TailwindLabs": {
+    "full_name": "TailwindLabs",
+    "link": "https://www.youtube.com/@TailwindLabs",
+    "title": "Tailwind Labs",
+    "description": "We're a small team of developers and designers spread out all across the world, building tools that help other developers build better user interfaces. We created Tailwind CSS, Headless UI, Hero Patterns, Heroicons, and wrote Refactoring UI.\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/TailwindLabs.jpeg"
+  },
+  "VercelHQ": {
+    "full_name": "VercelHQ",
+    "link": "https://www.youtube.com/@VercelHQ",
+    "title": "Vercel",
+    "description": "Vercel’s Frontend Cloud provides the developer experience and infrastructure to build, scale, and secure a faster, more personalized web.",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/VercelHQ.jpeg"
+  },
+  "NetlifyApp": {
+    "full_name": "NetlifyApp",
+    "link": "https://www.youtube.com/@NetlifyApp",
+    "title": "Netlify",
+    "description": "Netlify: The web development platform for teams\n\nDeploy modern static websites with Netlify. Get CDN, Continuous deployment, 1-click HTTPS, and all the services you need. Instantly build and deploy  your sites to our global network from Git. Custom domains, https, deploy previews, rollbacks and much more. Get started for free today at https://www.netlify.com/",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/NetlifyApp.jpeg"
+  },
+  "FrontendMasters": {
+    "full_name": "FrontendMasters",
+    "link": "https://www.youtube.com/@FrontendMasters",
+    "title": "Frontend Masters",
+    "description": "Advance your web app engineering skills – from frontend to fullstack development! 🚀 https://frontendmasters.com\n\nFor customer support, email us at support@frontendmasters.com",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/FrontendMasters.jpeg"
+  },
+  "developedbyed": {
+    "full_name": "developedbyed",
+    "link": "https://www.youtube.com/@developedbyed",
+    "title": "developedbyed",
+    "description": "Hello my gorgeous friends on the internet, welcome to DevelopedByEd, your go-to channel for learning how to code, design, and become more creative in the tech world!\n\nI’m Ed, a self-taught full stack engineer and designer from Romania, and I've been teaching code since 2018. I make learning fun and simple, covering topics such as web development, web design, UI/UX, game development, tech-related news, 3D modelling, and more!\n\nWhether you're a beginner or an experienced developer, I have coding courses and tutorials suitable for any level. I specialize in front-end, full-stack, and design, and I'm dedicated to sharing my knowledge and expertise with you! \n\nAnd the best part? You can use any of the amazing projects you see in my tutorials or courses in your portfolios!\n\nSo, if you want to kickstart your tech career, head over to https://developedbyed.com and find affordable courses that will take you to the next level! 💻\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/developedbyed.jpeg"
+  },
+  "CodingWithLewis": {
+    "full_name": "CodingWithLewis",
+    "link": "https://www.youtube.com/@CodingWithLewis",
+    "title": "Coding with Lewis",
+    "description": "My name is Lewis. I am on a mission to inspire developers and tech enthusiasts. 🧑‍💻\n\nProfessionally coding since 2016!\n\nBusiness: sydney@lewismenelaws.com\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/CodingWithLewis.jpeg"
+  },
+  "BeJScommunity": {
+    "full_name": "BeJScommunity",
+    "link": "https://www.youtube.com/@BeJScommunity",
+    "title": "BeJS",
+    "description": "BeJS is a Javascript community in Belgium. We organize meetups, conferences and hackathons. We also have a newsletter about all the news and hot topics of Javascript. (React, vue, angular, yarn, npm, webpack, parcel, react native...). Subscribe here: https://www.bejs.io/newsletter/ ",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/BeJScommunity.jpeg"
+  },
+  "node.jsisrael2393": {
+    "full_name": "node.jsisrael2393",
+    "link": "https://www.youtube.com/@node.jsisrael2393",
+    "title": "Node.js Israel",
+    "description": "",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/node.jsisrael2393.jpeg"
+  },
+  "nodetlv": {
+    "full_name": "nodetlv",
+    "link": "https://www.youtube.com/@nodetlv",
+    "title": "NodeTLV",
+    "description": "The largest Node.js conference in Israel. Attracting over 1,000 seasoned developers, held annually, sponsored by the leading tech companies, backed by the Node.js-IL community and powered by EventHandler.",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/nodetlv.jpeg"
+  },
+  "Supabase": {
+    "full_name": "Supabase",
+    "link": "https://www.youtube.com/@Supabase",
+    "title": "Supabase",
+    "description": "Supabase is the best open source Firebase alternative. Create a backend in less than 2 minutes. Start your project with a Postgres Database, Authentication, instant APIs, & realtime subscriptions. \n\nWhether you're new to development or looking to migrate existing workloads, you'll find Supabase tutorials & tips that will make your app development easier. From database migrations to query optimizations, we cover everything you need to build quickly with Supabase.\n\nSupabase provides a full Postgres database for every project with pgvector, database backups, extensions, & more. Add & manage email & password, passwordless, OAuth, & mobile logins to your project through a suite of identity providers & APIs.\n\nKickstart your next project with templates & use our Instant APIs that do the hard work for you. We introspect your database to provide APIs instantly. No more repetitive CRUD endpoints -  build your app without ever leaving the dashboard!\n\nBuild in a weekend, scale to millions.\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/Supabase.jpeg"
+  },
+  "Builderio": {
+    "full_name": "Builderio",
+    "link": "https://www.youtube.com/@Builderio",
+    "title": "Builder",
+    "description": "Go from idea to production with unprecedented efficiency\n\nBuilder is driving the next generation of front-end programming, with the only Visual Development Platform that offers an AI-powered design-to-code tool, a visual editor, and an enterprise CMS.\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/Builderio.jpeg"
+  },
+  "CallstackEngineers": {
+    "full_name": "CallstackEngineers",
+    "link": "https://www.youtube.com/@CallstackEngineers",
+    "title": "Callstack Engineers",
+    "description": "We specialize in developing cross-platform, full-stack apps with React and React Native at their core - a combination we call React Universe that lets you enjoy better and faster apps, multiple platforms development, smoother running teams, and lower operational costs.\n\nAs official React Native partners, we work hand-in-hand with Meta, Microsoft, Expo, just to name a few, to drive the evolution of this technology. Our team actively contributes to the React Native ecosystem by creating proposals, suggesting improvements, and maintaining key components - which means that your React Native product will always be at the forefront of innovation.\n\nYou’ll find there video content related to everything we do at Callstack: from React Universe On Air podcast episodes and React Unive Conf livestreams, through webinar recordings and tutorials to help you solve specific React and React Native development-related problems, to show reels that allow you to get to know us better.\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/CallstackEngineers.jpeg"
+  },
+  "rich_harris": {
+    "full_name": "rich_harris",
+    "link": "https://www.youtube.com/@rich_harris",
+    "title": "Rich Harris",
+    "description": "Web handyman. Collector of useless knowledge. Yorkshireman. https://twitter.com/rich_harris",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/rich_harris.jpeg"
+  },
+  "Huntabyte": {
+    "full_name": "Huntabyte",
+    "link": "https://www.youtube.com/@Huntabyte",
+    "title": "Huntabyte",
+    "description": "I've been passionate about all things technology for as long as I can remember. I truly enjoy sharing what I learn with others, and I figured what better place to do so than on YouTube, so here we are!",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/Huntabyte.jpeg"
+  },
+  "NoBoilerplate": {
+    "full_name": "NoBoilerplate",
+    "link": "https://www.youtube.com/@NoBoilerplate",
+    "title": "No Boilerplate",
+    "description": "Fast technical videos.\n\n\nIf you like sci-fi, check out my hopepunk podcast, Lost Terminal, at https://www.lostterminal.com\nIf you like urban fantasy, I produce a wonderful podcast called Modem Prometheus: https://www.modemprometheus.com\n\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/NoBoilerplate.jpeg"
+  },
+
+  "basarat": {
+    "full_name": "basarat",
+    "link": "https://www.youtube.com/@basarat",
+    "title": "basarat",
+    "description": "Premium quality free educational content for Web/JavaScript/TypeScript Developers ❤️ Subscribe to LEVEL UP 🌹\n\nBasarat has held many high-level roles like Enterprise Practice Lead, Frontend Architect and Principal Engineer. \nHis community contributions have been acknowledged by various organisations like Microsoft (awarded most valuable professional multiple times), Cypress.io (a technical ambassador) and TechSmith (Camtasia and Snagit influencer). \nHe has also authored various books like Beginning NodeJS by Apress and TypeScript Deep Dive. \nHe is a prolific open source contributor with various projects of his hitting 10K+ stars on GitHub. \nBasarat also enjoys helping other developers and has over 200K reputation on StackOverflow and is the top contributor for things like TypeScript. \n\nHe does not enjoy talking about himself in the third person, but that is what self-published bios are. So he will stop now and go back to doing what he does best in his humble opinion, which is coding ❤️\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/basarat.jpeg"
+  },
+  "LucasPaganiniWeb": {
+    "full_name": "LucasPaganiniWeb",
+    "link": "https://www.youtube.com/@LucasPaganiniWeb",
+    "title": "Lucas Paganini",
+    "description": "🧑‍💻 Developer and content creator\n📚 Writing a book on FP\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/LucasPaganiniWeb.jpeg"
+  },
+  "amigoscode": {
+    "full_name": "amigoscode",
+    "link": "https://www.youtube.com/@amigoscode",
+    "title": "Amigoscode",
+    "description": "",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/amigoscode.jpeg"
+  },
+  "CodingEntrepreneurs": {
+    "full_name": "CodingEntrepreneurs",
+    "link": "https://www.youtube.com/@CodingEntrepreneurs",
+    "title": "CodingEntrepreneurs",
+    "description": "Learn, Build, and Earn. Coding Entrepreneurs is here to help you learn the skills you need to build the projects you want. Learn by doing everything we do step-by-step. Practical and hands-on. Let's do this.\n\n💽 Code: https://github.com/codingforentrepreneurs\n🚀 Enroll. Learn to code. Launch your project: https://cfe.sh/enroll 🚀 \n\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/CodingEntrepreneurs.jpeg"
+  },
+  "jimshapedcoding": {
+    "full_name": "jimshapedcoding",
+    "link": "https://www.youtube.com/@jimshapedcoding",
+    "title": "JimShapedCoding",
+    "description": "Your road to becoming a DevOps Engineer, or Software Engineer could start from here, if you will start today with some great series of tutorials I have prepared over the last years, all for free.\n\nWelcome all, I am glad you found my channel.\nMy name is Jim, and I am here to give from the knowledge I gained in the last 4 years as a DevOps Engineer.\nI believe in explaining complex concepts in the most simple way that I could, so it will give you the drive to explore things much deeper.\n\nBeyond Python tutorials for all levels, you can also find full courses on Django, Flask, Selenium, Web Scraping, Docker, and many more helpful utilities that every starting programmer/ DevOps Engineer should know.\n\nIf you find this channel helpful for your career, and you want to show your support, here is a link for a one-time contribution:\nhttps://streamelements.com/jimshapedcoding/tip\n\nThanks, everybody, let's start learning\n\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/jimshapedcoding.jpeg"
+  },
+  "sentdex": {
+    "full_name": "sentdex",
+    "link": "https://www.youtube.com/@sentdex",
+    "title": "sentdex",
+    "description": "Python Programming tutorials, going further than just the basics. Learn about machine learning, finance, data analysis, robotics, web development, game development and more.\n\nI have ~1000 videos, all of which do not fit on the front page. Try searching on the channel page, or via https://pythonprogramming.net. If you cannot find something, just ask! \n\nBitcoin donations: 1GV7srgR4NJx4vrk7avCmmVQQrqmv87ty6\nPaypal donations: HSKinsley@gmail.com",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/sentdex.jpeg"
+  },
+  "bawad": {
+    "full_name": "bawad",
+    "link": "https://www.youtube.com/@bawad",
+    "title": "Ben Awad",
+    "description": "I'm a software developer who makes videos about React, React Native, GraphQL, Typescript, Node.js, PostgreSQL, Python, and all things coding.",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/bawad.jpeg"
+  },
+  "AndySterkowitz": {
+    "full_name": "AndySterkowitz",
+    "link": "https://www.youtube.com/@AndySterkowitz",
+    "title": "Andy Sterkowitz",
+    "description": "",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/AndySterkowitz.jpeg"
+  },
+  "gilesmcmullen": {
+    "full_name": "gilesmcmullen",
+    "link": "https://www.youtube.com/@gilesmcmullen",
+    "title": "Python Programmer",
+    "description": "Hi I'm Giles, I make videos about learning 🧠 I have a degree in physics, a post graduate certificate in Data Science and am a former medical physics researcher and before all that I was a financial journalist. \n\nI share the best evidence based learning techniques to help you learn anything you want (especially coding in python!)\n\n\n\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/gilesmcmullen.jpeg"
+  },
+  "hatechnolog": {
+    "full_name": "hatechnolog",
+    "link": "https://www.youtube.com/@hatechnolog",
+    "title": "הטכנולוג",
+    "description": "בואו לתכנת זה כיף",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/hatechnolog.jpeg"
+  },
+  "simplyexplained": {
+    "full_name": "simplyexplained",
+    "link": "https://www.youtube.com/@simplyexplained",
+    "title": "Simply Explained",
+    "description": "Taking complicated topics and explaining them in plain English. \n\nMy name is Xavier. I’m very passionate about all kinds of technologies and I love taking complex topics and explaining them in a simple and straightforward way. It’s this passion that got me into making YouTube videos.\n\nWith this channel, I hope to pass along some of my knowledge to others. Let me know if you have suggestions for future videos or improvements.",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/simplyexplained.jpeg"
+  },
+  "codebreakthrough": {
+    "full_name": "codebreakthrough",
+    "link": "https://www.youtube.com/@codebreakthrough",
+    "title": "Caleb Curry",
+    "description": "Programming Made Fun and Simple  \n\nHigh quality tutorials that are fun, educational, and easy to follow.  Teaching programming is my passion!  I find joy in making complex material easy to understand.\n\nI've decided that it is only right to upload videos of great quality and value.  Here you will find videos on C++, JavaScript, C, database design, SQL, and more!  As a side note, many videos contain cringey and random stories...you've been warned.\n\nAs an Amazon Associate I earn from qualifying purchases.\n\nBusiness inquiries: hello@calebcurry.com \n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/codebreakthrough.jpeg"
+  },
+  "kr1ms0n44": {
+    "full_name": "kr1ms0n44",
+    "link": "https://www.youtube.com/@kr1ms0n44",
+    "title": "Kr1Ms0n",
+    "description": "",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/kr1ms0n44.jpeg"
+  },
+  "ChrisTitusTech": {
+    "full_name": "ChrisTitusTech",
+    "link": "https://www.youtube.com/@ChrisTitusTech",
+    "title": "Chris Titus Tech",
+    "description": "Debloat Windows and Learn Linux Videos.\n\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/ChrisTitusTech.jpeg"
+  },
+  "Hallden_": {
+    "full_name": "Hallden_",
+    "link": "https://www.youtube.com/@Hallden_",
+    "title": "Hallden",
+    "description": "Hi, I am 300 moons old. I count everything in moons, it is very confusing for people.\nI like to build stuff with code so that's mostly what I do in my videos",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/Hallden_.jpeg"
+  },
+  "coreyms": {
+    "full_name": "coreyms",
+    "link": "https://www.youtube.com/@coreyms",
+    "title": "Corey Schafer",
+    "description": "Welcome to my Channel. This channel is focused on creating tutorials and walkthroughs for software developers, programmers, and engineers. We cover topics for all different skill levels, so whether you are a beginner or have many years of experience, this channel will have something for you.\n\nWe've already released a wide variety of videos on topics that include: Python, Git, Development Environments, Terminal Commands, SQL, Programming Terms, JavaScript, Computer Science Fundamentals, and plenty of other tips and tricks which will help you in your career.\n\n\nIf you enjoy these videos and would like to support my channel, I would greatly appreciate any assistance through my Patreon account:\nhttps://www.patreon.com/coreyms\n\n\nYou can find me on:\nMy website - http://coreyms.com/\nFacebook - https://www.facebook.com/CoreyMSchafer\nTwitter - https://twitter.com/CoreyMSchafer\nGoogle Plus - https://plus.google.com/+CoreySchafer44/posts\nTumblr - https://www.tumblr.com/blog/mycms",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/coreyms.jpeg"
+  },
+  "metallicode": {
+    "full_name": "metallicode",
+    "link": "https://www.youtube.com/@metallicode",
+    "title": "Metallicode מטאליקוד",
+    "description": "הי חברים! אני מתכוון לשתף פה תוכן בתחום הטכנולוגיה, מקווה שתהנו!",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/metallicode.jpeg"
+  },
+  "codingwithmitch": {
+    "full_name": "codingwithmitch",
+    "link": "https://www.youtube.com/@codingwithmitch",
+    "title": "CodingWithMitch",
+    "description": "Learning to code by making real Android projects.\n\nWant some extra help? Check out our courses: https://codingwithmitch.com/courses/",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/codingwithmitch.jpeg"
+  },
+  "PhilippLackner": {
+    "full_name": "PhilippLackner",
+    "link": "https://www.youtube.com/@PhilippLackner",
+    "title": "Philipp Lackner",
+    "description": "Welcome to my YouTube Channel!\n\nOn the one hand this channel will help beginners to learn the fundamentals of Android Development, but on the other hand I will also upload more advanced stuff. Since the development niche is evolving so fast, I will help you to keep track of it so you don't feel lost in the jungle of coding.\n\nYou want me to make your app? Just send me an email and maybe we can make a deal :)\n\nImprint: https://pl-coding.com/legal-disclosure/\n\nI don't reply to emails that are random coding questions. Only business inquiries or questions regarding my paid courses.\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/PhilippLackner.jpeg"
+  },
+  "leerob": {
+    "full_name": "leerob",
+    "link": "https://www.youtube.com/@leerob",
+    "title": "leerob",
+    "description": "Building @Vercel",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/leerob.jpeg"
+  },
+  "trash_dev": {
+    "full_name": "trash_dev",
+    "link": "https://www.youtube.com/@trash_dev",
+    "title": "trash",
+    "description": "your favorite dev, trash dev.",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/trash_dev.jpeg"
+  },
+  "StudyingWithAlex": {
+    "full_name": "StudyingWithAlex",
+    "link": "https://www.youtube.com/@StudyingWithAlex",
+    "title": "Studying With Alex",
+    "description": "im alex",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/StudyingWithAlex.jpeg"
+  },
+  "Indently": {
+    "full_name": "Indently",
+    "link": "https://www.youtube.com/@Indently",
+    "title": "Indently",
+    "description": "Simple is better than complex_\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/Indently.jpeg"
+  },
+  "EarthlyTech": {
+    "full_name": "EarthlyTech",
+    "link": "https://www.youtube.com/@EarthlyTech",
+    "title": "Earthly",
+    "description": "Hey all!\nWelcome to Earthly's youtube channel.\n\nWe are building a channel where we can share everything that you need to learn to be a software developer. \n\nSpecifically, we focus on tutorials around builds and programming languages and most of the videos are hosted by Adam Gordon Bell. Earthly makes an open-source build tool called Earthly.\n\nCome learn with me! Subscribe! :)\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/EarthlyTech.jpeg"
+  },
+  "RahulPandeyrkp": {
+    "full_name": "RahulPandeyrkp",
+    "link": "https://www.youtube.com/@RahulPandeyrkp",
+    "title": "Rahul Pandey",
+    "description": "The best software engineers: learn every new JavaScript framework, experiment with new ML techniques, and grind out 5 Leetcode problems a day. Right?\n\nWRONG\n\nThe key to career advancement has very little to do with how many technologies you know, or how much time you spend coding. It's about your behavior and mindset within a team to build something great.\n\nThese skills don't get taught in school, and I've learned them the hard way in my career. This channel is to share what I've learned. I also run a membership designed to supercharge engineering careers, check it out at joinTaro.com\n\nMy background: \n➤ Staff Engineer at Meta (Facebook)\n➤ Founding engineer at a startup that got acquired by Pinterest\n➤ BS and MS from Stanford\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/RahulPandeyrkp.jpeg"
+  },
+  "coderized": {
+    "full_name": "coderized",
+    "link": "https://www.youtube.com/@coderized",
+    "title": "Coderized",
+    "description": "An officially uncertified guide to coding better!\n\nTo support the channel or sign up for the mentorship program:\n💜 https://patreon.com/coderized\n\nCome chat with us - we're nice, we promise:\n💬 https://discord.gg/Y7hEKnxPGf \n\nAny questions? Want to know how I make these videos? Discord is the place!\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/coderized.jpeg"
+  },
+  "anthonywritescode": {
+    "full_name": "anthonywritescode",
+    "link": "https://www.youtube.com/@anthonywritescode",
+    "title": "anthonywritescode",
+    "description": "Various videos about programming and related topics.  Most videos will feature open source software and programming best practices.  For now, most videos will deal with python.\n\nAll slides and associated code are on github: https://github.com/anthonywritescode",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/anthonywritescode.jpeg"
+  },
+  "_noisecode": {
+    "full_name": "_noisecode",
+    "link": "https://www.youtube.com/@_noisecode",
+    "title": "Logan Smith",
+    "description": "I'm Logan. I love computer programming and learning new stuff. Come hang out and geek out with me.",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/_noisecode.jpeg"
+  },
+  "dcode-software": {
+    "full_name": "dcode-software",
+    "link": "https://www.youtube.com/@dcode-software",
+    "title": "dcode",
+    "description": "High quality web development tutorials.\n\nOn my channel you can find HTML, CSS & JavaScript tutorials, PHP tutorials, Node.js tutorials and Rust tutorials, as well as many other topics covered in web development. I also enjoy building JavaScript projects every now and then 🙂\n\nAlso - my name is Dom and I'm from Australia.\n\n🏫 My Udemy Courses - https://www.udemy.com/user/domenic-corso/\n🎨 Download my VS Code theme - https://marketplace.visualstudio.com/items?itemName=dcode.dcode-theme\n💜 Join my Discord Server - https://discord.gg/TXMQyvbpcA\n🐦 Find me on Twitter - https://twitter.com/dcodeyt\n💸 Support me on Patreon - https://www.patreon.com/dcode\n📰 Follow me on DEV Community - https://dev.to/dcodeyt\n\nEnjoy!",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/dcode-software.jpeg"
+  },
+  "SonnySangha": {
+    "full_name": "SonnySangha",
+    "link": "https://www.youtube.com/@SonnySangha",
+    "title": "Sonny Sangha",
+    "description": "I'm Sonny. 💯\n\nYou might also know me as PAPA React!\n\nI've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers and if that’s not enough I have cloned most of the applications you have used in your life! 🌟\n\n🚨 Join the world’s BEST developer community “Zero to Full Stack Hero” NOW:\nhttps://www.papareact.com/course\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/SonnySangha.jpeg"
+  },
+  "TonyAlicea": {
+    "full_name": "TonyAlicea",
+    "link": "https://www.youtube.com/@TonyAlicea",
+    "title": "Tony Alicea",
+    "description": "Coder and UX Designer. Udemy instructor. Pluralsight and Teachable. HTML, CSS and Responsive Design, Javascript, SQL and more. Find me elsewhere: http://twitter.com/@anthonypalicea | tonyalicea.dev",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/TonyAlicea.jpeg"
+  },
+  "ChristopherOkhravi": {
+    "full_name": "ChristopherOkhravi",
+    "link": "https://www.youtube.com/@ChristopherOkhravi",
+    "title": "Christopher Okhravi",
+    "description": "I’m on a mission to answer a simple question: Which abstractions should be used when? \n\nFrom the moment I learned my first abstraction, I was hooked.\n\nThis fascination continues to shape how I think about software and has led me to complete a PhD.\n\nOn this channel, I share practical frameworks, mental models, and real-world examples to help you make better decisions as a developer. Whether you’re a student, entrepreneur, or seasoned programmer, the right abstraction can make all the difference.\n\nI make videos on:\n\n1. Choosing the right abstraction.\n2. Reducing complexity without losing flexibility.\n3. Decision-making tools for scalable code.\n4. When and why to make trade-offs.\n\nIf you’ve got a question, challenge, or story, email me—I’d love to hear from you.\n\nNote: Some links on this channel are affiliate links. If you buy through them, I may earn a commission at no extra cost to you.\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/ChristopherOkhravi.jpeg"
+  },
+  "TheCherno": {
+    "full_name": "TheCherno",
+    "link": "https://www.youtube.com/@TheCherno",
+    "title": "The Cherno",
+    "description": "I'm making a game engine called Hazel! Here you'll find videos about that and C++/programming.\n\nFor professional inquiries, please send an email to business@thecherno.com\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/TheCherno.jpeg"
+  },
+  "BroCodez": {
+    "full_name": "BroCodez",
+    "link": "https://www.youtube.com/@BroCodez",
+    "title": "Bro Code",
+    "description": "Coding bootcamps HATE him!\nSee how he can teach you to code with this one weird trick... \n\nThis channel is dedicated to providing free education to those that can't afford college, bootcamps, and overpriced crap coding gurus try to sell you.\n\nSubscribe to support free education! 👊🔔\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/BroCodez.jpeg"
+  },
+  "AllThingsSecured": {
+    "full_name": "AllThingsSecured",
+    "link": "https://www.youtube.com/@AllThingsSecured",
+    "title": "All Things Secured",
+    "description": "Easy-to-follow tips and tutorials to help the non-tech savvy person build stronger privacy and security online.\n\nLearn how to lock down your social profiles, use a password manager, connect to a virtual private network (VPN), use an identity monitoring service and much, much more.\n\nNow more than ever, it's important to keep yourself safe and secure online. We all tend to know this is true, and yet we rarely do anything about it. Now, you can change that.\n\nWith the Internet of Things creeping into our daily lives, you can't put it off any longer. Learn the vital skills you need to keep your personal life private and understand best practices as relates to your home network, email, using your mobile phone, etc.\n\nGet started with personal online security here: https://www.allthingssecured.com/start-here/",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/AllThingsSecured.jpeg"
+  },
+  "devworldconference": {
+    "full_name": "devworldconference",
+    "link": "https://www.youtube.com/@devworldconference",
+    "title": "Devworld Conference",
+    "description": "DEVWorld Conference\n#1 Conference for Developers in the World, Connecting The Global Developer Community\n\n📍 RAI Amsterdam\n🗓️ 27-28 February 2025\n\n💡 Most Inspiring Tech Conference on the Planet\n1️⃣0️⃣0️⃣ in-depth Tech Sessions for your whole engineering Team\n7️⃣5️⃣0️⃣0️⃣ Engineers and Leaders\n2️⃣3️⃣0️⃣0️⃣0️⃣ sqm Expo Hall with the most exhilarating Tools, Gadgets & Features in Tech\n\nContent will include\n🤖 The Future of AI and ChatGPT for engineers\n🕸️In-Depth Frontend🆚Backend Sessions\n🔥 Leadership, DevOps & Cloud and Security\n👑 Global Tech Leaders will inspire and gather at this conference\n🚀The largest Tech Conference for engineers on the Planet\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/devworldconference.jpeg"
+  },
+  "viteconf": {
+    "full_name": "viteconf",
+    "link": "https://www.youtube.com/@viteconf",
+    "title": "ViteConf",
+    "description": "Beyond fast ⚡️\nhttps://viteconf.org\n\nLearn how frontend teams are building the next generation of the web with Vite. \nHosted by StackBlitz\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/viteconf.jpeg"
+  },
+  "t3dotgg": {
+    "full_name": "t3dotgg",
+    "link": "https://www.youtube.com/@t3dotgg",
+    "title": "Theo - t3․gg",
+    "description": "Hi, I'm a software dev nerd mostly known for full stack TypeScript stuff. Check out me and my stack at t3.gg\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/t3dotgg.jpeg"
+  },
+  "mattpocockuk": {
+    "full_name": "mattpocockuk",
+    "link": "https://www.youtube.com/@mattpocockuk",
+    "title": "Matt Pocock",
+    "description": "Become a TypeScript wizard with tips, tricks and tutorials. Plus, updates from the latest TypeScript releases (and other open source awesomeness).",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/mattpocockuk.jpeg"
+  },
+  "MichiganTypeScript": {
+    "full_name": "MichiganTypeScript",
+    "link": "https://www.youtube.com/@MichiganTypeScript",
+    "title": "Michigan TypeScript",
+    "description": "A place for advanced TypeScript to call home.\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/MichiganTypeScript.jpeg"
+  },
+  "javascriptisrael": {
+    "full_name": "javascriptisrael",
+    "link": "https://www.youtube.com/@javascriptisrael",
+    "title": "JavaScript Israel",
+    "description": "A place for the Israeli JavaScript community to share best practices, new frameworks and efficient tools in order to write cleaner and better code in less time.",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/javascriptisrael.jpeg"
+  },
+  "JavaScriptunderthehoodof": {
+    "full_name": "JavaScriptunderthehoodof",
+    "link": "https://www.youtube.com/@JavaScriptunderthehoodof",
+    "title": "JavaScript: under-the-hood of",
+    "description": "Hi I'm Craig\n\nThis is a channel dedicated to examining and learning about the mechanisms inside of (i.e. internals) of different tools and libraries inside the JavaScript ecosystem.\n\nCurrent topics we will include are:\n- Web bundlers (e.g. webpack)\n- Apollo's query components\n- React hooks\n- Source maps\n- Type systems (e.g. TypeScript)\n- Test runners (e.g. Mocha)\n- GraphQL \n- Linters (e.g. Eslint)\n- Auto formatting (e.g. Prettier)\n\nFull articles on my blog (https://craigtaub.dev/).\n\nThanks",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/JavaScriptunderthehoodof.jpeg"
+  },
+  "JSWORLDConference": {
+    "full_name": "JSWORLDConference",
+    "link": "https://www.youtube.com/@JSWORLDConference",
+    "title": "JSWORLD Conference",
+    "description": "The most Unique and Largest  JavaScript Conferences On The Planet brought to you by JSworld Conference! \n\n🗓️ ViteConf 9-10 October 2025 - The Official first-ever in-person ViteConf taking place in Amsterdam! \n\n🗓️ Vuejs Amsterdam 5-6 March 2026 - Theater Amsterdam \n\nFounded in 2018 with JSworld & Vue.js Amsterdam we are and have been responsible for many Conferences in the World among others JSworld Conference, ViteConf, React Miami, Vue.js Amsterdam,  React Live and AngularNL.\n\nOur ambition was always to give back to the community and create the most awesome experience for attendees from all around the world. JSWORLD Conference is now the largest Javascript Conference in the Netherlands, proudly alongside Vue.js Amsterdam which is the largest Vue Community Conference in the World\n\n________\nFollow us & stay updated👇\nTwitter: https://twitter.com/jsworldconf/\nLinkedIn: https://www.linkedin.com/company/jsworldconference\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/JSWORLDConference.jpeg"
+  },
+  "jsconf_": {
+    "full_name": "jsconf_",
+    "link": "https://www.youtube.com/@jsconf_",
+    "title": "JSConf",
+    "description": "The JSConf YouTube Channel.\nJSConf is a series of JavaScript conferences from around the world and here we release the conference talk videos for free as fast as we can after every event.\n\nTopics include JavaScript, HTML5, CSS, node.js, robotics, etc.",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/jsconf_.jpeg"
+  },
+  "nextjsil": {
+    "full_name": "nextjsil",
+    "link": "https://www.youtube.com/@nextjsil",
+    "title": "NextJSIL",
+    "description": "",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/nextjsil.jpeg"
+  },
+  "ReactNext": {
+    "full_name": "ReactNext",
+    "link": "https://www.youtube.com/@ReactNext",
+    "title": "ReactNext",
+    "description": "",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/ReactNext.jpeg"
+  },
+  "ReactConfOfficial": {
+    "full_name": "ReactConfOfficial",
+    "link": "https://www.youtube.com/@ReactConfOfficial",
+    "title": "React Conf",
+    "description": "",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/ReactConfOfficial.jpeg"
+  },
+  "deno_land": {
+    "full_name": "deno_land",
+    "link": "https://www.youtube.com/@deno_land",
+    "title": "Deno",
+    "description": "This is the official Deno YouTube channel, where we'll share talks, product updates, and other resources.\n\nDeno is a simple, modern and secure runtime for JavaScript and TypeScript that uses V8 and is built in Rust.\n\nWebsite: https://deno.com\nGitHub: https://github.com/denoland\nDiscord: https://discord.com/invite/deno\nTwitter: https://twitter.com/deno_land\nNewsletter: https://deno.news\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/deno_land.jpeg"
+  },
+  "ByteGrad": {
+    "full_name": "ByteGrad",
+    "link": "https://www.youtube.com/@ByteGrad",
+    "title": "ByteGrad",
+    "description": "Hi, I'm Wesley. I'm a brand ambassador for Kinde (paid sponsorship).\n\nMy COMPLETE React & Next.js course is out now! Find it here: https://bytegrad.com/courses/professional-react-nextjs It's the #1 resource to master the latest React & Next.js. I'm very proud of it, my best work!\n\nInterested in sponsoring me? I love working with sponsors. Please email me here: support@bytegrad.com\n\nNote that my videos may contain mistakes. Always verify yourself that your code is safe and does what you want it to do for your specific situation. You agree by watching the videos that you are solely responsible for any mistakes in your code.\n\nThis channel and all its content is owned & operated by ByteGrad Sp. z o.o. with Tax ID: PL6762676561 and KRS-number: 0001125554\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/ByteGrad.jpeg"
+  },
+  "typecraft_dev": {
+    "full_name": "typecraft_dev",
+    "link": "https://www.youtube.com/@typecraft_dev",
+    "title": "typecraft",
+    "description": "Weekly content that will help developers level up 🚀. Topics are tailored for the modern programmer. Join your community for fresh, weekly content that keeps you in the know.\n\nFor collaboration or sponsorship opportunities, connect with us at sponsor@typecraft.dev.\n\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/typecraft_dev.jpeg"
+  },
+  "_ericelliott": {
+    "full_name": "_ericelliott",
+    "link": "https://www.youtube.com/@_ericelliott",
+    "title": "Eric Elliott",
+    "description": "EricElliottJS.com - Make some magic.",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/_ericelliott.jpeg"
+  },
+  "bholmesdev": {
+    "full_name": "bholmesdev",
+    "link": "https://www.youtube.com/@bholmesdev",
+    "title": "Ben Holmes",
+    "description": "",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/bholmesdev.jpeg"
+  },
+  "jherr": {
+    "full_name": "jherr",
+    "link": "https://www.youtube.com/@jherr",
+    "title": "Jack Herrington",
+    "description": "Frontend videos from basic to very advanced; tutorials, technology deep dives. You'll love it!\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/jherr.jpeg"
+  },
+  "LearnVue": {
+    "full_name": "LearnVue",
+    "link": "https://www.youtube.com/@LearnVue",
+    "title": "LearnVue",
+    "description": "LearnVue provides developer focused learning for the Vue.js framework. With fast-paced videos, you can learn quickly and spend more time developing your projects!",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/LearnVue.jpeg"
+  },
+  "TechWorldwithNana": {
+    "full_name": "TechWorldwithNana",
+    "link": "https://www.youtube.com/@TechWorldwithNana",
+    "title": "TechWorld with Nana",
+    "description": "Helping millions of engineers to advance their careers with DevOps & Cloud education 💙\n\nI create new videos every month, topics include mainly DevOps and Cloud tutorials. Subscribe and activate bell notification so you don't miss new videos :)\n\nI'm a Docker Captain, AWS Container Hero 🤓  💪\n\n►  https://www.techworld-with-nana.com/\n\nSome topics covered:\n - Docker\n - Kubernetes\n - CI/CD - GitLab CI, GitHub Actions, Jenkins\n - Python\n - Ansible\n - Prometheus Monitoring\n - Terraform\n - YAML\n - & more!\n\nHave fun watching my videos! 🙂",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/TechWorldwithNana.jpeg"
+  },
+  "DevOpsToolkit": {
+    "full_name": "DevOpsToolkit",
+    "link": "https://www.youtube.com/@DevOpsToolkit",
+    "title": "DevOps Toolkit",
+    "description": "We want to help you learn the tools and the processes that you should be using and applying in your day-to-day job. We want to help you make decisions. What works well, what doesn't work, why you should choose one tool over the other, and how to get up-to-speed quickly. Which tool works the best for a given task? What should we explore in more depth, and what is a waste of time? \n\nThis channel has DevOps in the name because we believe that the only way forward is to combine different types of expertise. Ultimately, we need to be able to develop, test, deploy, and operate our systems without friction caused by silos formed around distinct types of expertise. Hence, our focus is on bridging the gap by focusing on the topics that allow developers, operators, and everyone else works together by adopting tools and processes that are relevant today and foster collaboration.\n\nViktor Farcic & Darin Pope\n\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/DevOpsToolkit.jpeg"
+  },
+  "KodeKloud": {
+    "full_name": "KodeKloud",
+    "link": "https://www.youtube.com/@KodeKloud",
+    "title": "KodeKloud",
+    "description": "KodeKloud’s purpose is to help you build DevOps domain expertise, literacy, and Cloud comprehension simultaneously. Be it Kubernetes, AWS, Azure, or among any of hundreds of applications, we can arm you with the knowledge to grow.\n\nJoin KodeKloud for a transformative DevOps learning experience. Gain hands-on skills and expertise in the world of DevOps and Cloud technologies. Embark on your career journey with us today!\n\nBecome a DevOps Expert through our Learn-By-Doing platform: https://bit.ly/Kodekloud-YT\n\n\n\n\n\n\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/KodeKloud.jpeg"
+  },
+  "amazonwebservicesisrael": {
+    "full_name": "amazonwebservicesisrael",
+    "link": "https://www.youtube.com/@amazonwebservicesisrael",
+    "title": "AWS Israel",
+    "description": "כאן תוכלו למצוא בעברית: מדריכים, הרצאות ועדכונים על טכנולוגיות הענן של AWS.",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/amazonwebservicesisrael.jpeg"
+  },
+  "DevOpsJourney": {
+    "full_name": "DevOpsJourney",
+    "link": "https://www.youtube.com/@DevOpsJourney",
+    "title": "DevOps Journey",
+    "description": "Getting into the IT Field? Learn how to become a DevOps Engineer. Full-length DevOps courses and tutorials on Python, Docker, Kubernetes, Terraform, Linux, CI/CD, and more.  On this Channel, I go over everything you need to get started in the IT field and the path you can take your career to become a DevOps Engineer.\n\nContact me for business opportunities/consulting: \ndevopswithbrad@gmail.com\n\n- Brad\n\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/DevOpsJourney.jpeg"
+  },
+  "DevOpsDirective": {
+    "full_name": "DevOpsDirective",
+    "link": "https://www.youtube.com/@DevOpsDirective",
+    "title": "DevOps Directive",
+    "description": "My goal with DevOps Directive (https://devopsdirective.com/) is to provide educational and entertaining (hopefully?…) content to enable engineers to level up their skills and keep up with the continuously evolving DevOps and Cloud Infrastructure landscape.\n\nI will be exploring many different types of media, including:\n\n- Video Tutorials\n- Open Source Projects\n- Interviews\n- Live & Recorded Screen Casts\n- Internet Office Hours\n\nTopics include:\n- Infrastructure as Code\n- Kubernetes\n- Databases\n- Networking\n- Security\n- Continuous Integration/Continuous Deployment\n- Monitoring\n- Cloud Providers\n- Career Advancement\n\nI am not an expert in all of these topics. That being said, I am good at reading documentation, asking the right questions, and explaining what I learn along the way.\n\nJoin me!\n\n-Sid",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/DevOpsDirective.jpeg"
+  },
+  "PlatformEngineering": {
+    "full_name": "PlatformEngineering",
+    "link": "https://www.youtube.com/@PlatformEngineering",
+    "title": "Platform Engineering",
+    "description": "The largest community of platform engineers out there.\nLearn from leading DevOps experts. Connect with fellow platform nerds.\n\nThis community was born as a series of Meetup events in Berlin, Germany and Austin, Texas. It grew to much more than that in just a few months. We recently launched our Slack community, Platformengineering.org and this channel. More to come.\n\nJoin our Slack channel - http://platformengineering.org/slack-rd\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/PlatformEngineering.jpeg"
+  },
+  "ContainersfromtheCouch": {
+    "full_name": "ContainersfromtheCouch",
+    "link": "https://www.youtube.com/@ContainersfromtheCouch",
+    "title": "Containers from the Couch",
+    "description": "Live streams and videos featuring AWS Container Services and demos. We focus on demos and teaching people how to use different container technologies. ECS, Kubernetes, Cloud Native, and lots of open source tools and tips.",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/ContainersfromtheCouch.jpeg"
+  },
+  "CloudBeesTV": {
+    "full_name": "CloudBeesTV",
+    "link": "https://www.youtube.com/@CloudBeesTV",
+    "title": "CloudBeesTV",
+    "description": "Every business is a software business, and is under pressure to innovate constantly. This increased velocity introduces new business risks. CloudBees is building the world’s first end-to-end automated software delivery system, enabling companies to balance governance and developer freedom. For more info, visit www.cloudbees.com",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/CloudBeesTV.jpeg"
+  },
+  "betterstack": {
+    "full_name": "betterstack",
+    "link": "https://www.youtube.com/@betterstack",
+    "title": "Better Stack",
+    "description": "Better Stack lets you see inside any stack, debug any issue, and resolve any incident.",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/betterstack.jpeg"
+  },
+  "Sentry-monitoring": {
+    "full_name": "Sentry-monitoring",
+    "link": "https://www.youtube.com/@Sentry-monitoring",
+    "title": "Sentry",
+    "description": "Sentry's platform helps developers diagnose, fix, and optimize the performance of their code. Each day, we process billions of exceptions and transactions from some of the most popular products on the internet.",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/Sentry-monitoring.jpeg"
+  },
+  "Netdata": {
+    "full_name": "Netdata",
+    "link": "https://www.youtube.com/@Netdata",
+    "title": "Netdata",
+    "description": "X-Ray Vision for your infrastructure! Every Metric, Every Second. No BS.\n\nDetect and resolve performance issues in seconds with real-time, per-second monitoring. Netdata offers zero-configuration setup, automated dashboards, and ML-powered insights for immediate clarity across systems, containers, and applications.\n\nNetdata works right out of the box, empowering both experts and beginners to troubleshoot faster than ever before. Watch our videos for tutorials, best practices, and technical deep dives. \n\nTo learn more, visit www.netdata.cloud or visit our helpful user community at community.netdata.cloud\n\nDon't forget to hit subscribe for more useful Netdata thinking and how-to's!",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/Netdata.jpeg"
+  },
+  "Temporalio": {
+    "full_name": "Temporalio",
+    "link": "https://www.youtube.com/@Temporalio",
+    "title": "Temporal",
+    "description": "Temporal develops and distributes the world's leading open source durable execution system. We make code fault-tolerant, durable, and simple.\n\nInnovative companies like Stripe, Netflix, Datadog, Snap, Glovo, Indeed, Qualtrics, and Remitly build their services and applications with Temporal to make them reliable to run, productive to enhance, and easy to troubleshoot and repair.\n\nMore than a decade in the making, Temporal is powered by veterans behind some of the industry's most loved distributed systems, as well as investors like Amplify Partners, Sequoia Capital, and Index Ventures.\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/Temporalio.jpeg"
+  },
+  "dagger-io": {
+    "full_name": "dagger-io",
+    "link": "https://www.youtube.com/@dagger-io",
+    "title": "Dagger",
+    "description": "Dagger is an open-source runtime for composable workflows. It's perfect for systems with many moving parts and a strong need for repeatability, modularity, observability and cross-platform support. This makes it a great choice for AI agents and CI/CD workflows.\n\nLearn more: https://dagger.io/\n\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/dagger-io.jpeg"
+  },
+  "Virbox": {
+    "full_name": "Virbox",
+    "link": "https://www.youtube.com/@Virbox",
+    "title": "Virbox",
+    "description": "Programming, Linux and IT in general, sometimes with humor.",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/Virbox.jpeg"
+  },
+  "nodejs-foundation": {
+    "full_name": "nodejs-foundation",
+    "link": "https://www.youtube.com/@nodejs-foundation",
+    "title": "node.js",
+    "description": "Node.js Foundation is a collaborative open source project dedicated to building and supporting the Node.js platform and other related modules. Node.js is used by tens of thousands of organizations in more than 200 countries and amasses more than 2 million downloads per month. https://nodejs.org/en/",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/nodejs-foundation.jpeg"
+  },
+  "kimylamp": {
+    "full_name": "kimylamp",
+    "link": "https://www.youtube.com/@kimylamp",
+    "title": "kimylamp",
+    "description": "Short stories about software, hardware and whatever I find interesting.",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/kimylamp.jpeg"
+  },
+  "platformatic": {
+    "full_name": "Platformatic",
+    "link": "https://www.youtube.com/@platformatic",
+    "title": "Platformatic",
+    "description": "Deploy, scale, and secure your Node.js applications. Effortlessly.\n\nPlatformatic offers the platform bridging the gap between Node.js developers, operators, and wider business.\n\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/Platformatic.jpeg"
+  },
+  "kubesimplify": {
+    "full_name": "kubesimplify",
+    "link": "https://www.youtube.com/@kubesimplify",
+    "title": "Kubesimplify",
+    "description": "Let's Learn the Cloud-native Tech together as ONE awesome community\n\nFor collaborations reach out to kubesimplify@gmail.com\n\n► Saiyam Pathak\n► Author - https://saiyampathak.gumroad.com/\n► Kubestronaut\n► Founder BuildSafe and Kubesimplify \n\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/kubesimplify.jpeg"
+  },
+  "ByteByteGo": {
+    "full_name": "ByteByteGo",
+    "link": "https://www.youtube.com/@ByteByteGo",
+    "title": "ByteByteGo",
+    "description": "Covering topics and trends in large-scale system design, from the authors of the best-selling System Design Interview book series. This channel is managed by Alex Xu and Sahn Lam.\n\nTo master system design, get our 158-page System Design PDF for free by subscribing to our weekly newsletter (10-min read): https://bit.ly/3tfAlYD\n\nTake our system design online course: https://bit.ly/3mlDSk9\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/ByteByteGo.jpeg"
+  },
+  "SystemDesignInterview": {
+    "full_name": "SystemDesignInterview",
+    "link": "https://www.youtube.com/@SystemDesignInterview",
+    "title": "System Design Interview",
+    "description": "Preparing for a system design interview? Or simply want to know how distributed systems work? Welcome to our channel!\n\nMe on LinkedIn: www.linkedin.com/in/mikhail-smarshchok\nMe on Twitter: https://twitter.com/smarshchokm\nMore of my courses on system design: https://www.systemdesignthinking.com\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/SystemDesignInterview.jpeg"
+  },
+  "SystemDesignSchool": {
+    "full_name": "SystemDesignSchool",
+    "link": "https://www.youtube.com/@SystemDesignSchool",
+    "title": "System Design School",
+    "description": "Learn System Design!\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/SystemDesignSchool.jpeg"
+  },
+  "pragmaticengineer": {
+    "full_name": "pragmaticengineer",
+    "link": "https://www.youtube.com/@pragmaticengineer",
+    "title": "The Pragmatic Engineer",
+    "description": "Writing The Pragmatic Engineer Newsletter (the #1 newsletter for software engineers) and the author of The Software Engineer's Guidebook.\n\nThe tech industry, from the inside, with a focus on Big Tech and startups. Highly relevant for developers and engineering managers, useful for those working in tech.\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/pragmaticengineer.jpeg"
+  },
+  "ModernSoftwareEngineeringYT": {
+    "full_name": "ModernSoftwareEngineeringYT",
+    "link": "https://www.youtube.com/@ModernSoftwareEngineeringYT",
+    "title": "Modern Software Engineering",
+    "description": "Explores ideas that help to produce Better Software Faster.\n\nHosted by Dave Farley, Trisha Gee, Steve Smith, Emily Bache, Kevlin Henney & Kent Beck. All of them are technology leaders and some of the best speakers on modern software engineering topics in the world. Subscribe for tips, tricks, comments on topical matters in the software development industry and MORE to help you become a great programmer.",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/ModernSoftwareEngineeringYT.jpeg"
+  },
+  "ByteMonk": {
+    "full_name": "ByteMonk",
+    "link": "https://www.youtube.com/@ByteMonk",
+    "title": "ByteMonk",
+    "description": "ByteMonk - Where Every Byte Sparks Insight!\n\nWelcome to ByteMonk, Dive into in-depth tutorials, industry insights, and practical knowledge crafted to empower tech enthusiasts, developers, and architects.\n\nJoin our growing community elevate your skills.\n\n\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/ByteMonk.jpeg"
+  },
+  "awesome-coding": {
+    "full_name": "awesome-coding",
+    "link": "https://www.youtube.com/@awesome-coding",
+    "title": "Awesome",
+    "description": "Your second favorite tech channel.\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/awesome-coding.jpeg"
+  },
+  "leetwito": {
+    "full_name": "leetwito",
+    "link": "https://www.youtube.com/@leetwito",
+    "title": "Lee Twito",
+    "description": "",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/leetwito.jpeg"
+  },
+  "daveebbelaar": {
+    "full_name": "daveebbelaar",
+    "link": "https://www.youtube.com/@daveebbelaar",
+    "title": "Dave Ebbelaar",
+    "description": "Hi! I'm Dave, AI Engineer and founder of Datalumina®. On this channel, I share practical tutorials that teach developers how to build production-ready AI systems that actually work in the real world. Beyond these tutorials, I also help people start successful freelancing careers. Check out the links below to learn more!",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/daveebbelaar.jpeg"
+  },
+  "GregHogg": {
+    "full_name": "GregHogg",
+    "link": "https://www.youtube.com/@GregHogg",
+    "title": "Greg Hogg",
+    "description": "Welcome to the channel! I make videos about Data Science and Coding Interview Preparation. I am the CEO of MLNOW.ai and owner of AlgoMap.io and its associated coding bootcamp. Partnerships: greg.hogg1@outlook.com 😊\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/GregHogg.jpeg"
+  },
+  "CodingJesus": {
+    "full_name": "CodingJesus",
+    "link": "https://www.youtube.com/@CodingJesus",
+    "title": "Coding Jesus",
+    "description": "My channel's purpose is to shine a positive light on the often difficult to navigate world of algorithmic trading by breaking down publicly accessible resources into digestible chunks for those interested. As a quantitative developer, I hope many of you will find my insight useful, educational, and informative. I also like cryptocurrency, and code.\n\n\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/CodingJesus.jpeg"
+  },
+  "TechWithTim": {
+    "full_name": "TechWithTim",
+    "link": "https://www.youtube.com/@TechWithTim",
+    "title": "Tech With Tim",
+    "description": "Dive into the world of programming, software engineering, machine learning, and all things tech through my channel! I place a strong focus on Python and JavaScript, offering you an array of free resources to kickstart your coding journey and make your mark in the software engineering and programming fields. My mission is to deliver the finest quality tech and programming tutorials online, ensuring you receive top-notch education right at your fingertips.",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/TechWithTim.jpeg"
+  },
+  "AntonPutra": {
+    "full_name": "AntonPutra",
+    "link": "https://www.youtube.com/@AntonPutra",
+    "title": "Anton Putra",
+    "description": "AWS - GCP - Azure - Kubernetes - Terraform \n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/AntonPutra.jpeg"
+  },
+  "IBMTechnology": {
+    "full_name": "IBMTechnology",
+    "link": "https://www.youtube.com/@IBMTechnology",
+    "title": "IBM Technology",
+    "description": "Whether it’s AI, automation, cybersecurity, data science, DevOps, quantum computing or anything in between, we provide educational content on the biggest topics in tech. Subscribe to build your skillset, learn about new trends, and gain insights from IBM experts. \n\nThis channel follows the IBM Social Computing Guidelines.\n\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/IBMTechnology.jpeg"
+  },
+  "outside-the-box": {
+    "full_name": "outside-the-box",
+    "link": "https://www.youtube.com/@outside-the-box",
+    "title": "מפתחים מחוץ לקופסה",
+    "description": "",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/outside-the-box.jpeg"
+  },
+  "RobertElderSoftware": {
+    "full_name": "RobertElderSoftware",
+    "link": "https://www.youtube.com/@RobertElderSoftware",
+    "title": "RobertElderSoftware",
+    "description": "Videos related to computer programming, Linux, electronics, mathematics & other interesting DIY solutions.",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/RobertElderSoftware.jpeg"
+  },
+  "NateBJones": {
+    "full_name": "NateBJones",
+    "link": "https://www.youtube.com/@NateBJones",
+    "title": "AI News & Strategy Daily | Nate B Jones",
+    "description": "",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/NateBJones.jpeg"
+  },
+  "NetworkChuck": {
+    "full_name": "NetworkChuck",
+    "link": "https://www.youtube.com/@NetworkChuck",
+    "title": "NetworkChuck",
+    "description": "Welcome to NetworkChuck!\n\nI LOVE Information Technology!! My goal is to help as MANY PEOPLE AS POSSIBLE jump into a career in the IT field through obtaining IT Certifications. I talk about Cisco Certifications, CompTIA, AWS, Microsoft...pretty much EVERYTHING in IT. As a CBT Nuggets Trainer, it's also my passion to TEACH information technology and to make it FUN. \n\nIf your goals are to obtain your CCNA, CompTIA A+, CompTIA Network+...I'm here to help you with that goal in any way I can!\n\n*****Interested in Sponsoring NetworkChuck? Email chuck@networkchuck.com",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/NetworkChuck.jpeg"
+  },
+  "TCMSecurityAcademy": {
+    "full_name": "TCMSecurityAcademy",
+    "link": "https://www.youtube.com/@TCMSecurityAcademy",
+    "title": "The Cyber Mentor",
+    "description": "Bridging the cybersecurity education gap since 2018.  For our full catalog of the most affordable and practical cybersecurity courses on the market, go to https://academy.tcm-sec.com/\n\nLearn more about our hands-on certifications: https://certifications.tcm-sec.com\n\nTo sponsor the channel, please visit: https://www.tcm.rocks/Sponsors\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/TCMSecurityAcademy.jpeg"
+  },
+  "ArjanCodes": {
+    "full_name": "ArjanCodes",
+    "link": "https://www.youtube.com/@ArjanCodes",
+    "title": "ArjanCodes",
+    "description": "On this channel, I post videos about programming and software design to help you take your coding skills to the next level. I'm an entrepreneur and a university lecturer in computer science, with more than 20 years of experience in software development and design. If you're a software developer and you want to improve your development skills, and learn more about programming in general, make sure to subscribe for helpful videos.\n\nI post a video here every Friday. If you have any suggestion for a topic you'd like me to cover, just leave a comment on any of my videos and I'll take it under consideration.\n\nThanks for watching!\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/ArjanCodes.jpeg"
+  },
+  "DXSoftware": {
+    "full_name": "DXSoftware",
+    "link": "https://www.youtube.com/@DXSoftware",
+    "title": "DX",
+    "description": "The engineering intelligence platform designed by leading researchers. Get the metrics, benchmarks, and insights you need to drive higher impact per developer.\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/DXSoftware.jpeg"
+  },
+  "elie2222": {
+    "full_name": "elie2222",
+    "link": "https://www.youtube.com/@elie2222",
+    "title": "Elie Steinbock",
+    "description": "Learn about how open source apps were built.\n\nThere are a tonne of great projects out there to learn from. Each week I pick a new one and dive deep into how it works.\n\nThe videos are mostly full-stack TypeScript web apps and AI projects.\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/elie2222.jpeg"
+  },
+  "JustinGarrison": {
+    "full_name": "JustinGarrison",
+    "link": "https://www.youtube.com/@JustinGarrison",
+    "title": "Justin Garrison",
+    "description": "Don't just learn new things, understand them!\n\nCome understand new things with me!\n\nVideos about software development, cloud, infrastructure, movies, and storytelling.\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/JustinGarrison.jpeg"
+  },
+  "NetNinja": {
+    "full_name": "NetNinja",
+    "link": "https://www.youtube.com/@NetNinja",
+    "title": "Net Ninja",
+    "description": "Black-belt your web development skills. Over 2000 free programming tutorial videos about:\n\n- Modern JavaScript (beginner to advanced)\n- Node.js\n- React\n- Vue.js\n- Firebase\n- MongoDB\n- HTML & CSS\n- PHP & MySQL\n- Laravel\n- React Native\n- Flutter\n- Open AI\n- SolidJS\n\n...And many more topics as well :)\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/NetNinja.jpeg"
+  },
+  "beyondfireship": {
+    "full_name": "beyondfireship",
+    "link": "https://www.youtube.com/@beyondfireship",
+    "title": "Beyond Fireship",
+    "description": "Even more highly-focused blazingly-fast coding tutorials from Fireship",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/beyondfireship.jpeg"
+  },
+  "codetv-dev": {
+    "full_name": "codetv-dev",
+    "link": "https://www.youtube.com/@codetv-dev",
+    "title": "CodeTV (formerly Learn With Jason)",
+    "description": "Learn With Jason is now CodeTV!\n\nCodeTV is a place for developers to watch programming designed for them. Watch original shows featuring professional developers across all skill levels and career paths.\n\nOur mission is to remind developers everywhere that learning, building, and growing a technical skill set can be fun — and it's even more fun if you're doing it with friends.\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/codetv-dev.jpeg"
+  },
+  "cncf": {
+    "full_name": "cncf",
+    "link": "https://www.youtube.com/@cncf",
+    "title": "CNCF [Cloud Native Computing Foundation]",
+    "description": "To provide educational and informative content on cloud native computing, which uses an open source software stack to deploy applications as microservices, packaging each part into its own container, and dynamically orchestrating those containers to optimize resource utilization. Educational content on CNCF projects, like Kubernetes and Prometheus, will also be provided.",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/cncf.jpeg"
+  },
+  "MixMorris": {
+    "full_name": "MixMorris",
+    "link": "https://www.youtube.com/@MixMorris",
+    "title": "MixMorris",
+    "description": "¯\\_(ツ)_/¯",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/MixMorris.jpeg"
+  },
+  "UsenixOrg": {
+    "full_name": "UsenixOrg",
+    "link": "https://www.youtube.com/@UsenixOrg",
+    "title": "USENIX",
+    "description": "As part of USENIX's commitment to the Open Access to research movement, slides, proceedings, and audio and video recordings from many of our events are now freely available to the general public shortly after they take place. Selected videos are added to this channel; additional recordings can be found on the USENIX Web site.",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/UsenixOrg.jpeg"
+  },
+  "marc-lou": {
+    "full_name": "marc-lou",
+    "link": "https://www.youtube.com/@marc-lou",
+    "title": "Marc Lou",
+    "description": "I was fired everywhere so I built 27 startups.\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/marc-lou.jpeg"
+  },
+  "scigeeksuniverse": {
+    "full_name": "scigeeksuniverse",
+    "link": "https://www.youtube.com/@scigeeksuniverse",
+    "title": "SciGeeks universe",
+    "description": "Tune in to talk about everything data analysis in a cloud-native world.  I'm dciangot, your host, and I'm a physicist specialized in software architectures for large scale data analysis.\n\nFrom machine learning to data visualization, I'll take you through step-by-step tutorials and demonstrations that cover best practices for reproducibility and data management with cutting-edge technologies. Join me and together we'll learn how to conduct transparent, accurate and reproducible scientific research.",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/scigeeksuniverse.jpeg"
+  },
+  "glich.stream": {
+    "full_name": "glich.stream",
+    "link": "https://www.youtube.com/@glich.stream",
+    "title": "glich.stream",
+    "description": "Bassem is a Sr. SWE @GitHub building the next generation of GitHub Actions. This channel covers everything software engineering (code, system design, soft skills, engineering management). Some of these topics are discussed with professional engineers, thought leaders, engineering managers and startup founders. There is something for everyone who works in tech!\n\nglich was started by Bassem Dghaidi in the summer of 2021 as a platform to share software engineering insights from over a decade of industry experience. Bassem has over 15 years of experience in tech.\n\nPrior to that, he advised some of the largest enterprises deliver their engineering vision and strategy, optimize their software development life cycle and adopt DevOps best practices.\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/glich.stream.jpeg"
+  },
+  "gkcs": {
+    "full_name": "gkcs",
+    "link": "https://www.youtube.com/@gkcs",
+    "title": "Gaurav Sen",
+    "description": "This channel is for software developers looking to get better at algorithms, system design, and learning engineering best practices.\n\nHere, you will find content around competitive programming, data structures, algorithms, game-playing AI, and system design.\n\nRecently, I have focused on how large-scale distributed systems are designed, built, and maintained.\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/gkcs.jpeg"
+  },
+  "code-maven-in-hebrew": {
+    "full_name": "code-maven-in-hebrew",
+    "link": "https://www.youtube.com/@code-maven-in-hebrew",
+    "title": "Code Maven in Hebrew - מביני קוד בעברית",
+    "description": "",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/code-maven-in-hebrew.jpeg"
+  },
+  "Foad_Alavi": {
+    "full_name": "Foad_Alavi",
+    "link": "https://www.youtube.com/@Foad_Alavi",
+    "title": "Foad Alavi",
+    "description": "I have been working as a .Net developer since 2008 and am currently a Senior Software Developer and .Net Domain Expert in a big company in the Amsterdam Area. Throughout my career, I worked as a C# mentor and helped many ordinary people to learn C# and start working as developers.\n\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/Foad_Alavi.jpeg"
+  },
+  "Bitdev": {
+    "full_name": "Bitdev",
+    "link": "https://www.youtube.com/@Bitdev",
+    "title": "Bit",
+    "description": "The official Bit YouTube channel. \n\nBit is the platform for component-driven development. Over 200,000 developers and the world's largest organizations use our open-source toolchain (bit.dev) and cloud platform (bit.cloud) to build component-driven software together.\n\nLearn how to build composable web applications with components - and enjoy faster, more scalable, and more collaborative modern web development.",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/Bitdev.jpeg"
+  },
+  "bmdavis419": {
+    "full_name": "bmdavis419",
+    "link": "https://www.youtube.com/@bmdavis419",
+    "title": "Ben Davis",
+    "description": "TypeScript, Svelte, and AI nerd. I manage Theo's channel and build a ton of random stuff.",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/bmdavis419.jpeg"
+  },
+  "ryansolid": {
+    "full_name": "ryansolid",
+    "link": "https://www.youtube.com/@ryansolid",
+    "title": "Ryan Carniato",
+    "description": "JavaScript performance enthusiast and fine-grained reactivity super fan. I am the creator of SolidJS. And Marko core team member.\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/ryansolid.jpeg"
+  },
+  "kantancoding": {
+    "full_name": "kantancoding",
+    "link": "https://www.youtube.com/@kantancoding",
+    "title": "Kantan Coding",
+    "description": "Join the Discord to talk to me and the rest of the community!\nhttps://discord.gg/NU39rvkUXa\n\nFor business inquiries: kantancoding@gmail.com\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/kantancoding.jpeg"
+  },
+  "codingincafe": {
+    "full_name": "codingincafe",
+    "link": "https://www.youtube.com/@codingincafe",
+    "title": "Coding in Cafe",
+    "description": "",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/codingincafe.jpeg"
+  },
+  "WesBos": {
+    "full_name": "WesBos",
+    "link": "https://www.youtube.com/@WesBos",
+    "title": "Wes Bos",
+    "description": "HTML, CSS, JavaScript and WordPress web development tutorials!",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/WesBos.jpeg"
+  },
+  "CoderOne": {
+    "full_name": "CoderOne",
+    "link": "https://www.youtube.com/@CoderOne",
+    "title": "CoderOne",
+    "description": "Unlock the world of web development! From beginner-friendly coding tutorials to advanced tips, join us for a journey of turning ideas into interactive digital experiences. Subscribe now for hands-on learning, project walkthroughs, and staying ahead in the dynamic realm of coding. \n\nLet's code together and build something extraordinary!\n\nJoin the developers-friendly newsletter: https://islemmaboud.com/join-newsletter\nWebsite: https://islemmaboud.com\nGithub: https://github.com/ipenywis\nTwitter: https://x.com/ipenywis\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/CoderOne.jpeg"
+  },
+  "MarcelDempers": {
+    "full_name": "MarcelDempers",
+    "link": "https://www.youtube.com/@MarcelDempers",
+    "title": "That DevOps Guy",
+    "description": "Hey all!\nWelcome to my channel.\nI am a solutions Architect and my passions are platform architecture, distributed systems engineering ,micro-services, containers and cloud native technology.\nI'm a DevOps evangelist and encourage use of automation technology and open source to help folks become autonomous. \n\nI want to build up a platform where I can share everything I've learnt about software engineering and architecture\nAlso, there are a ton of things I want to learn, so this is going to be a relaxed, vlog environment of me learning new things and taking you all on a journey , With weekly to bi-weekly video uploads.\n\nI'll be building software, and documenting things on my GitHub as I go along.\n\nCome learn with me! Subscribe! :)",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/MarcelDempers.jpeg"
+  },
+  "SidTheITGuy": {
+    "full_name": "SidTheITGuy",
+    "link": "https://www.youtube.com/@SidTheITGuy",
+    "title": "Sid The IT Guy",
+    "description": "Hey there! I am Siddharth and I have been a PHP/Laravel and NodeJS/ExpressJS/NestJS Developer since 2017 after I completed my Masters degree. I am trying things out on YouTube by posting informative videos about what I have learned in my career.\n\nLike And Subscribe !! Thanks !!\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/SidTheITGuy.jpeg"
+  },
+  "tomwildenhain": {
+    "full_name": "tomwildenhain",
+    "link": "https://www.youtube.com/@tomwildenhain",
+    "title": "Tom Wildenhain",
+    "description": "",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/tomwildenhain.jpeg"
+  },
+  "built-from-scratch": {
+    "full_name": "built-from-scratch",
+    "link": "https://www.youtube.com/@built-from-scratch",
+    "title": "From Scratch",
+    "description": "I make things. Occasionally stuff as well, just to mix it up a bit.",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/built-from-scratch.jpeg"
+  },
+  "FaceDevStuff": {
+    "full_name": "FaceDevStuff",
+    "link": "https://www.youtube.com/@FaceDevStuff",
+    "title": "FaceDev",
+    "description": "Business Inquiries: face.dev@intheblackmedia.com\n\npoor skull can't handle my brain size\n\nPersonal inquiries: contact@outpoot.com",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/FaceDevStuff.jpeg"
+  },
+  "dreamsofautonomy": {
+    "full_name": "dreamsofautonomy",
+    "link": "https://www.youtube.com/@dreamsofautonomy",
+    "title": "Dreams of Autonomy",
+    "description": "All about FOSS, Self Hosting, Linux, Tooling, Hardware & Homelabs!\n\nThis is the second channel of @dreamsofcode",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/dreamsofautonomy.jpeg"
+  },
+  "debugagent": {
+    "full_name": "debugagent",
+    "link": "https://www.youtube.com/@debugagent",
+    "title": "Debug Agent",
+    "description": "Learn debugging and programming from the author of Practical Debugging at Scale published by Apress. A 30 year industry veteran. To learn more check out https://debugagent.com/\n\nThis channel contains videos that comprise the first module covering debugging. Here we focus on IntelliJ/IDEA and  Java/JVM but the basic logic and tooling should be applicable to many other IDEs and platforms. We discuss debugging features that are niche and often unknown e.g.:\n\n* Marker Objects\n* Entry Renderers\n* Instance tracking\n* Memory object inspection\n* Tracepoints/Logpoints\n\nand much more!\n\nBy leveraging these tools and techniques you will gain access to the secret weapon of senior developers and consultants. This will make you a better developer and a happier one. \n\nIn the following modules we cover:\n* Debugging Theory\n* Tooling\n* Writing Debuggable Code\n* Kubernetes (k8s)\n* Serverless\n* Fullstack\n* Observability \n\nThe full course includes more than 5 hours of video material.",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/debugagent.jpeg"
+  },
+  "BeABetterDev": {
+    "full_name": "BeABetterDev",
+    "link": "https://www.youtube.com/@BeABetterDev",
+    "title": "Be A Better Dev",
+    "description": "\nThis channel is devoted to helping you become a better developer by learning about AWS, cloud computing, and system design concepts.\n\nMy name is Daniel Galati and I have nearly a decade of experience working in tech. I am currently working as a senior software engineer at Amazon. \n\nOn my channel, you'll find videos on software development topics such as databases, design principles, and cloud computing. I put an emphasis on making complicated topics easier to understand. From time to time, I'll also share developer career advice gathered through real-life industry experience for those of you looking to break into, or are already established in the software industry.\n\nIf you want to join me in becoming a better developer, hit that subscribe button now. \n\nPatreon Link: https://www.patreon.com/beabetterdev\n\n---------------------\n\nVideos created are based on my own opinion and not related to any company, organization or person.",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/BeABetterDev.jpeg"
+  },
+  "TechWithNikola": {
+    "full_name": "TechWithNikola",
+    "link": "https://www.youtube.com/@TechWithNikola",
+    "title": "Tech With Nikola",
+    "description": "Welcome to my channel! My name is Nikola and I am a software engineer with over 10 years of experience in the field.\n\nI have a strong passion for technology and am constantly seeking to learn and explore new technologies and techniques. I believe that the best way to truly understand something is to get hands-on experience and try it out for oneself.\n\nThroughout my career, I have focused on a number of areas, including high performance and low-latency systems, cryptography, game engines, networking, and cryptocurrencies. I am also an avid gamer and enjoy playing video games.\n\nI have a number of other interests and hobbies. I enjoy playing basketball and have done martial arts. I am also an avid chess player and enjoy the mental challenge and strategy involved in the game.\n\nI hope that my videos will be helpful and informative.\n\nVisit my blog: https://techwithnikola.com/\nTwitter: https://twitter.com/techwithnikola\nLinkedIn: https://www.linkedin.com/in/nikola-stojiljkovic-67a91931/\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/TechWithNikola.jpeg"
+  },
+  "InternetOfBugs": {
+    "full_name": "InternetOfBugs",
+    "link": "https://www.youtube.com/@InternetOfBugs",
+    "title": "Internet of Bugs",
+    "description": "35 year software professional discussing software careers, quality, bugs, and AI.  Special focus on LLMs generating code, and how programming might change as AI advances.",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/InternetOfBugs.jpeg"
+  },
+  "mr_mux408": {
+    "full_name": "mr_mux408",
+    "link": "https://www.youtube.com/@mr_mux408",
+    "title": "Alex Mux",
+    "description": "",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/mr_mux408.jpeg"
+  },
+  "OpenSauced": {
+    "full_name": "OpenSauced",
+    "link": "https://www.youtube.com/@OpenSauced",
+    "title": "The Secret Sauce",
+    "description": "The Secret Sauce is a podcast that shares the stories of how open source projects and companies found success. \n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/OpenSauced.jpeg"
+  },
+  "amantinband": {
+    "full_name": "amantinband",
+    "link": "https://www.youtube.com/@amantinband",
+    "title": "Amichai Mantinband",
+    "description": "Hey there! In this channel I'm creating industry-level tutorials about coding, design patterns, architecture, and the latest and greatest libraries, tricks, and tips you should definitely know about.\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/amantinband.jpeg"
+  },
+  "jonhoo": {
+    "full_name": "jonhoo",
+    "link": "https://www.youtube.com/@jonhoo",
+    "title": "Jon Gjengset",
+    "description": "We're building libraries and tools in the Rust programming language!\n\nThe streams are intended for users who are already somewhat familiar with Rust, but who want to see something larger and more involved be built. You can see earlier related videos by looking at the playlists and uploads on this channel. I post about upcoming streams and ideas for new ones at https://discord.jonhoo.eu, as well as on Twitter, Mastodon, and LinkedIn! Q&A tends to happen using https://wewerewondering.com/.\n\nYou can sponsor my work at https://github.com/sponsors/jonhoo/.\n\nStreaming schedule: https://calendar.google.com/calendar/embed?src=719b6cf08a9f11da4a732083a43aa00a61a7943ea864a57417b5da13b1fc8ccb%40group.calendar.google.com&ctz=Europe%2FOslo\n\nThe hope of this channel is to help serve the Rust 2018 Roadmap goal of better serving intermediate Rustaceans: https://blog.rust-lang.org/2018/03/12/roadmap.html#better-serving-intermediate-rustaceans\n\nAlso known as (for search purposes): jonhoo",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/jonhoo.jpeg"
+  },
+  "navekeng": {
+    "full_name": "navekeng",
+    "link": "https://www.youtube.com/@navekeng",
+    "title": "Navek",
+    "description": "",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/navekeng.jpeg"
+  },
+  "MichaelSambol": {
+    "full_name": "MichaelSambol",
+    "link": "https://www.youtube.com/@MichaelSambol",
+    "title": "Michael Sambol",
+    "description": "Data structures and algorithms in X minutes.\n\nHowdy, I'm Mike. I'm a software engineer from the United States. I make concise computer science tutorials to help you learn, review for exams, and prep for interviews.\n\nMy background: I have a bachelor's and master's degree in computer science from Georgia Tech. I'm a principal software engineer for Workday, and I previously worked for AWS, Intuit, and IBM.",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/MichaelSambol.jpeg"
+  },
+  "PolylogCS": {
+    "full_name": "PolylogCS",
+    "link": "https://www.youtube.com/@PolylogCS",
+    "title": "Polylog",
+    "description": "Deep dives into all kinds of topics in computer science, with an emphasis on algorithms. If you want to support us, check out our Patreon.",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/PolylogCS.jpeg"
+  },
+  "Steve8708": {
+    "full_name": "Steve8708",
+    "link": "https://www.youtube.com/@Steve8708",
+    "title": "Steve (Builder.io)",
+    "description": "CEO @ Builder.io - Figma to code to production in record time\n\nhttps://www.builder.io\n\n(Steve Sewell)\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/Steve8708.jpeg"
+  },
+  "Barkuni": {
+    "full_name": "Barkuni",
+    "link": "https://www.youtube.com/@Barkuni",
+    "title": "ברקוני - Barkuni",
+    "description": "היי, אני מקווה שהשהות שלכם בערוץ שלי תהיה מזעזעת. אבל תעשו סאב. זריז.",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/Barkuni.jpeg"
+  },
+  "andrew-burgess": {
+    "full_name": "andrew-burgess",
+    "link": "https://www.youtube.com/@andrew-burgess",
+    "title": "Andrew Burgess",
+    "description": "",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/andrew-burgess.jpeg"
+  },
+  "negevDev": {
+    "full_name": "negevDev",
+    "link": "https://www.youtube.com/@negevDev",
+    "title": "Negev Web Developers",
+    "description": "",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/negevDev.jpeg"
+  },
+  "CodeAesthetic": {
+    "full_name": "CodeAesthetic",
+    "link": "https://www.youtube.com/@CodeAesthetic",
+    "title": "CodeAesthetic",
+    "description": "",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/CodeAesthetic.jpeg"
+  },
+  "AlexMercedCoder": {
+    "full_name": "AlexMercedCoder",
+    "link": "https://www.youtube.com/@AlexMercedCoder",
+    "title": "Web Development with Alex Merced",
+    "description": "Alex Merced is a Developer looking to share his knowledge with others.\n\nLearn More at:\n- devnursery.com\n- grokoverflow.com\n- alexmercedcoder.dev\n\nSubscribe to my podcasts on iTunes/Spotify:\n- Web Dev 101\n- Datanation\n- Select * From Data.Lake\n- In the Grand Schema of Things\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/AlexMercedCoder.jpeg"
+  },
+  "pullrequest1566": {
+    "full_name": "pullrequest1566",
+    "link": "https://www.youtube.com/@pullrequest1566",
+    "title": "Pull Request",
+    "description": "קהילה זו נועדה לקשר בין מפתחים שרוצים לתרום לקוד פתוח ופרויקטים שזקוקים לתרומה וחרטה על דגלה להנגיש את התרומה לקוד פתוח ולהפוך אותה לקלה ונעימה 😊\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/pullrequest1566.jpeg"
+  },
+  "briantwill": {
+    "full_name": "briantwill",
+    "link": "https://www.youtube.com/@briantwill",
+    "title": "Brian Will",
+    "description": "",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/briantwill.jpeg"
+  },
+  "interviewpen": {
+    "full_name": "interviewpen",
+    "link": "https://www.youtube.com/@interviewpen",
+    "title": "Interview Pen",
+    "description": "Our mission is to provide high-quality educational content, community, & tools to empower technologists (software engineers, etc) looking to succeed in upscaling their careers.",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/interviewpen.jpeg"
+  },
+  "SpanningTree": {
+    "full_name": "SpanningTree",
+    "link": "https://www.youtube.com/@SpanningTree",
+    "title": "Spanning Tree",
+    "description": "Spanning Tree is an educational video series about computer science and mathematics.\n\nSee more at https://spanningtree.me\n\nTo be notified when a new video is released, sign up for the Spanning Tree mailing list at https://spanningtree.substack.com/\n\nSpanning Tree is created by Brian Yu. https://brianyu.me/\n\nEmail me at brian@spanningtree.me to suggest a future topic.\n\nSupport the channel: https://ko-fi.com/spanningtree\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/SpanningTree.jpeg"
+  },
+  "hackerdashery": {
+    "full_name": "hackerdashery",
+    "link": "https://www.youtube.com/@hackerdashery",
+    "title": "hackerdashery",
+    "description": "",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/hackerdashery.jpeg"
+  },
+  "kevinfaang": {
+    "full_name": "kevinfaang",
+    "link": "https://www.youtube.com/@kevinfaang",
+    "title": "Kevin Fang",
+    "description": "I read tech postmortems and make bad videos about them",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/kevinfaang.jpeg"
+  },
+  "sudocode": {
+    "full_name": "sudocode",
+    "link": "https://www.youtube.com/@sudocode",
+    "title": "sudoCODE",
+    "description": "Welcome to sudoCODE. I am here to help aspiring software engineers to learn how to learn problem solving and Computer Science concepts. I want to contribute to Software Engineering community by sharing the tips and learning methods that I have found to be super useful over the years. If you need help with any of the following you have landed at the right place:\n\n\n1. Coding Interview Preparation\n2. System Design Interview and Concepts\n3. Backend Engineering\n4. Distributed Computing\n5. Computer Science Fundamentals (Last but not least ;))\n\nSounds up your alley? Hit that SUBSCRIBE button and I will see you in comments. \n\nABOUT ME:\nI am working as a full time Software Engineer at Careem(An Uber Company) in Dubai. I hail from central India but Bangalore is my home. I love being an engineer and I love learning and teaching Computer Science because hey teaching is learning twice ;). I am also a mentor at Scaler Academy. If you are more into reading you can find me on Medium as well.",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/sudocode.jpeg"
+  },
+  "bigboxSWE": {
+    "full_name": "bigboxSWE",
+    "link": "https://www.youtube.com/@bigboxSWE",
+    "title": "bigboxSWE",
+    "description": "bigboxSWE",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/bigboxSWE.jpeg"
+  },
+  "MollyRocket": {
+    "full_name": "MollyRocket",
+    "link": "https://www.youtube.com/@MollyRocket",
+    "title": "Molly Rocket",
+    "description": "This is the official YouTube channel of https://mollyrocket.com, home of Star Code Galaxy, Handmade Hero, Meow the Infinite, and 1935.",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/MollyRocket.jpeg"
+  },
+  "dreamsofcode": {
+    "full_name": "dreamsofcode",
+    "link": "https://www.youtube.com/@dreamsofcode",
+    "title": "Dreams of Code",
+    "description": "Become a better developer in 4 minutes: https://bit.ly/45C7a29 👈\n\nComputer Science, Software Engineering, Development and Programming Tutorials.\n\nWe'll be exploring popular programming languages and toolsets as well as some of the more unknown ones. We'll look at building projects with these tools and comparing them to each other.\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/dreamsofcode.jpeg"
+  },
+  "codetothemoon": {
+    "full_name": "codetothemoon",
+    "link": "https://www.youtube.com/@codetothemoon",
+    "title": "Code to the Moon",
+    "description": "I'm a professional software developer with 15+ years of experience.\n\nOn this channel we cover a variety of software development topics such as Rust, large language models, next-gen keyboards, bleeding edge programming languages, and software development tools.\n\nMy goal is always to make videos that are engaging, concise and with a high information density.\n\nTwitter: https://twitter.com/CodeToTheMoons\nDiscord: https://discord.gg/vedhqQMp89\nBusiness inquiries:  ken@cttm.io\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/codetothemoon.jpeg"
+  },
+  "teej_dv": {
+    "full_name": "teej_dv",
+    "link": "https://www.youtube.com/@teej_dv",
+    "title": "TJ DeVries",
+    "description": "Live coder who sometimes remembers to upload his VODs",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/teej_dv.jpeg"
+  },
+  "sithdev8206": {
+    "full_name": "sithdev8206",
+    "link": "https://www.youtube.com/@sithdev8206",
+    "title": "SithDev",
+    "description": "",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/sithdev8206.jpeg"
+  },
+  "LowLevelTV": {
+    "full_name": "LowLevelTV",
+    "link": "https://www.youtube.com/@LowLevelTV",
+    "title": "Low Level",
+    "description": "Videos about cyber security + software security | New videos every week\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/LowLevelTV.jpeg"
+  },
+  "HighPerformanceProgramming": {
+    "full_name": "HighPerformanceProgramming",
+    "link": "https://www.youtube.com/@HighPerformanceProgramming",
+    "title": "High-Performance Programming",
+    "description": "My name is Lucian Oprea and I’m a software engineer from Romania with a strong background in computer science and with more than 10 years of professional experience.\n\nI created this channel to share knowledge and teach developers in the way I wish I had been taught, while learning alongside them. I focus on simplifying complex topics like Distributed Systems, System Design, and High-Performance Applications into clear, approachable lessons. I hope this journey helps both myself and others grow as developers. 🚀\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/HighPerformanceProgramming.jpeg"
+  },
+  "LowByteProductions": {
+    "full_name": "LowByteProductions",
+    "link": "https://www.youtube.com/@LowByteProductions",
+    "title": "Low Byte Productions",
+    "description": "Low Byte Productions is a YouTube channel goes deep into the heart of low level programming - messing with ones and zeros.\n\npatreon: https://www.patreon.com/lowleveljavascript\nmailing list: https://tinyletter.com/lowleveljavascript\ntwitter: @lowleveljs\nreddit: reddit.com/r/lowleveljavascript \ndiscord: https://discord.gg/FPWaVgk",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/LowByteProductions.jpeg"
+  },
+  "CoreDumpped": {
+    "full_name": "CoreDumpped",
+    "link": "https://www.youtube.com/@CoreDumpped",
+    "title": "Core Dumped",
+    "description": "Hello and welcome to Core Dumped. I'm a CS Engineer and I love teaching others about complex concepts I've learn over the years, but in a simple and easy to understand format.",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/CoreDumpped.jpeg"
+  },
+  "yousuckatprogramming": {
+    "full_name": "yousuckatprogramming",
+    "link": "https://www.youtube.com/@yousuckatprogramming",
+    "title": "You Suck at Programming",
+    "description": "yo what's up my name is Dave and You Suck at Programming.\n\ni talk about sys admin stuff, bash scripting, programming, unix, and roast your CRINGE code lmao\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/yousuckatprogramming.jpeg"
+  },
+  "PlanetScale": {
+    "full_name": "PlanetScale",
+    "link": "https://www.youtube.com/@PlanetScale",
+    "title": "PlanetScale",
+    "description": "PlanetScale is building the leading MySQL-compatible database platform that aims to reduce the cost and effort associated with managing database infrastructure while making MySQL near infinitely scalable.\n\nWith PlanetScale, you get the power of horizontal sharding, non-blocking schema changes, and many more powerful database features without the pain of implementing them.\n\nMake sure you subscribe to learn more about MySQL, databases, and scaling your applications.\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/PlanetScale.jpeg"
+  },
+  "HasuraHQ": {
+    "full_name": "HasuraHQ",
+    "link": "https://www.youtube.com/@HasuraHQ",
+    "title": "Hasura",
+    "description": "Hasura makes your data instantly accessible over a real-time GraphQL API, so you can build and ship modern apps and APIs faster. Hasura connects to your databases, REST servers, GraphQL servers and third party APIs (eg: Stripe, Salesforce) to provide a unified realtime GraphQL API across all your data sources instantly.\n\nCheck out our features:\nhttps://hasura.io\n\nFind us on Twitter:\nhttps://twitter.com/HasuraHQ\n\nJoin our community:\nhttps://hasura.io/discord\n\n#hasura #graphql \n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/HasuraHQ.jpeg"
+  },
+  "GraphQLFoundation": {
+    "full_name": "GraphQLFoundation",
+    "link": "https://www.youtube.com/@GraphQLFoundation",
+    "title": "GraphQL Foundation Working Groups",
+    "description": "The GraphQL Foundation is a neutral foundation founded by global technology and application development companies. The GraphQL Foundation encourages contributions, stewardship, and a shared investment from a broad group in vendor-neutral events, documentation, tools, and support for GraphQL.",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/GraphQLFoundation.jpeg"
+  },
+  "MongoDB": {
+    "full_name": "MongoDB",
+    "link": "https://www.youtube.com/@MongoDB",
+    "title": "MongoDB",
+    "description": "MongoDB is the modern database that provides the services and tools necessary to build distributed applications fast, at the performance and scale users demand. With content for all skill levels, our channel provides users with the latest tutorials, tips and how-to videos to make the most out of MongoDB. \n\nFor more information, visit www.mongodb.com.",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/MongoDB.jpeg"
+  },
+  "Kotlin": {
+    "full_name": "Kotlin",
+    "link": "https://www.youtube.com/@Kotlin",
+    "title": "Kotlin by JetBrains",
+    "description": "Concise. Multiplatform. Fun.\n\nKotlin is a concise, cross-platform programming language developed by JetBrains.\n\nExpand your Kotlin skills with the official YouTube channel of the Kotlin programming language. \nKotlin Tutorials, Kotlin Multiplatform, Kotlin Coroutines, Kotlin Tips, Talking Kotlin Podcast, ATOM Podcast.\n\nSubscribe for shows, the latest news, and live events!\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/Kotlin.jpeg"
+  },
+  "JavaIL": {
+    "full_name": "JavaIL",
+    "link": "https://www.youtube.com/@JavaIL",
+    "title": "Java.IL",
+    "description": "Welcome to Java.IL - the Israeli Java Community and user group. Whether you are a Java developer (or any other JVM language), JVM internals enthusiast, keeping on top of the Java ecosystem or interested in influencing the future of Java, you have come the right place.\n\nJoin the meetup group: http://www.meetup.com/JavaIL/\nFollow us on Twitter: @java_il\nJoin our active discussion on our Facebook Group: https://www.facebook.com/groups/Java.IL/",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/JavaIL.jpeg"
+  },
+  "letsgetrusty": {
+    "full_name": "letsgetrusty",
+    "link": "https://www.youtube.com/@letsgetrusty",
+    "title": "Let's Get Rusty",
+    "description": "This channel is your #1 resource for the Rust Programming Language! We'll be covering basic Rust language tutorials, advanced Rust language tutorials, Rust language web projects, Rust language frameworks, and much more! ",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/letsgetrusty.jpeg"
+  },
+  "Telusko": {
+    "full_name": "Telusko",
+    "link": "https://www.youtube.com/@Telusko",
+    "title": "Telusko",
+    "description": "Hey Aliens!!!\nI make free programming tutorials from beginner to advanced level\nThat includes Java for beginner, Advanced Java, Python, Android, Blockchain, JavaScript, Kotlin, Scala, Spring Framework, Hibernate, C programming, Data Structures, Networking, REST API, and many more.\nSometimes I make videos on motivation and take sessions with Tech industry experts.\nThere is something for everyone here. \n\nBusiness Email : teluskobusiness@gmail.com\n\nCheck out Live Courses on : courses.telusko.com\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/Telusko.jpeg"
+  },
+  "nirparisian": {
+    "full_name": "nirparisian",
+    "link": "https://www.youtube.com/@nirparisian",
+    "title": "Nir Parisian",
+    "description": "ניר פריזיאן | מומחה פיתוח Web וייעוץ טכנולוגי לסטארטאפים וחברות בצמיחה\n\nבערוץ זה אשתף ידע וניסיון שצברתי לאורך 15+ שנים בתעשיית ההייטק - מבניית pokemon.co.il כילד, דרך תפקידי ב-Intel וכמוביל פרונטאנד ב-Curv (נרכשה ע\"י PayPal), ועד להקמת Enpitech.\n\nמה תמצאו כאן?\n▪️ טיפים מעשיים בפיתוח React ו-Web מתקדם\n▪️ אסטרטגיות לניהול צוותי פיתוח והאצת תהליכי עבודה\n▪️ שיטות עבודה מוכחות מפרויקטים עם חברות כמו AutoFleet, Nice, Innoviz ועוד\n\nב-Enpitech (https://enpitech.dev) אנו מספקים שירותי פיתוח, ייעוץ והכשרה לחברות המעוניינות לצמוח במהירות בלי להתפשר על איכות. הערוץ הזה הוא חלק מהמחויבות שלנו להעברת ידע וקידום קהילת המפתחים.\n\nלייעוץ חינם או שיחת היכרות: nir@enpitech.dev\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/nirparisian.jpeg"
+  },
+  "MelkeyDev": {
+    "full_name": "MelkeyDev",
+    "link": "https://www.youtube.com/@MelkeyDev",
+    "title": "Melkey",
+    "description": "Help me Get 50k Subscribers!\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/MelkeyDev.jpeg"
+  },
+  "NeetCode": {
+    "full_name": "NeetCode",
+    "link": "https://www.youtube.com/@NeetCode",
+    "title": "NeetCode",
+    "description": "Current NEET and ex-Google SWE, also I love teaching!\n\nN.E.E.T. = (Not in education, employment or training)\n\nPreparing for coding interviews? Checkout neetcode.io\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/NeetCode.jpeg"
+  },
+  "NeetCodeIO": {
+    "full_name": "NeetCodeIO",
+    "link": "https://www.youtube.com/@NeetCodeIO",
+    "title": "NeetCodeIO",
+    "description": "",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/NeetCodeIO.jpeg"
+  },
+  "Computerphile": {
+    "full_name": "Computerphile",
+    "link": "https://www.youtube.com/@Computerphile",
+    "title": "Computerphile",
+    "description": "Videos about computers & computer stuff. Supported by Jane Street - https://jane-st.co/computerphile\nSister channel of Numberphile. ",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/Computerphile.jpeg"
+  },
+  "abdul_bari": {
+    "full_name": "abdul_bari",
+    "link": "https://www.youtube.com/@abdul_bari",
+    "title": "Abdul Bari",
+    "description": "I have started this channel to help Students Community to learn difficult topics, from computer science,  with a simple and detailed explanation. \nI have been teaching some computer science subjects and Programming Languages for a long time and also been working as a freelancer and providing software solutions.\nMy experience and understanding of subjects may help students.",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/abdul_bari.jpeg"
+  },
+  "cs50": {
+    "full_name": "cs50",
+    "link": "https://www.youtube.com/@cs50",
+    "title": "CS50",
+    "description": "This is CS50, Harvard University's introduction to the intellectual enterprises of computer science and the art of programming. Demanding, but definitely doable. Social, but educational. A focused topic, but broadly applicable skills. CS50 is the quintessential Harvard course.",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/cs50.jpeg"
+  },
+  "GrantSanderson": {
+    "full_name": "GrantSanderson",
+    "link": "https://www.youtube.com/@GrantSanderson",
+    "title": "Grant Sanderson",
+    "description": "Sister channel to 3Blue1Brown for side projects.",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/GrantSanderson.jpeg"
+  },
+  "3blue1brown": {
+    "full_name": "1Blue1Brown",
+    "link": "https://www.youtube.com/@3blue1brown",
+    "title": "3Blue1Brown",
+    "description": "My name is Grant Sanderson. Videos here cover a variety of topics in math, or adjacent fields like physics and CS, all with an emphasis on visualizing the core ideas. The goal is to use animation to help elucidate and motivate otherwise tricky topics, and for difficult problems to be made simple with changes in perspective.\n\nFor more information, other projects, FAQs, and inquiries see the website: https://www.3blue1brown.com",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/1Blue1Brown.jpeg"
+  },
+  "WelchLabsVideo": {
+    "full_name": "WelchLabsVideo",
+    "link": "https://www.youtube.com/@WelchLabsVideo",
+    "title": "Welch Labs",
+    "description": "Great math & science stories. \n\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/WelchLabsVideo.jpeg"
+  },
+  "DrTrefor": {
+    "full_name": "DrTrefor",
+    "link": "https://www.youtube.com/@DrTrefor",
+    "title": "Dr. Trefor Bazett",
+    "description": "This channel is about helping you learn math. I've got full playlists for  Discrete Math, Linear Algebra, Calculus I-IV and Differential equations, as well as many more videos on cool math topics or about learning effectively. \n\nI am an Assistant  Teaching Professor teaching mathematics at the University of Victoria, in Canada. I completed my PhD in a fun branch of math called Algebraic Topology at the University of Toronto. Many of the videos on this channel were filmed during my time as an Assistant Professor, Educator at the University of Cincinnati. \n\nMathematics is a journey we can all participate in. My videos can help support you, give you tools, and show you some of beauty and power of mathematics. But ultimately it is a journey we must travel together, so make sure you don't JUST watch my videos. Ask questions, try problems, and do as much math as you can on your own too!\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/DrTrefor.jpeg"
+  },
+  "ProfessorLeonard": {
+    "full_name": "ProfessorLeonard",
+    "link": "https://www.youtube.com/@ProfessorLeonard",
+    "title": "Professor Leonard",
+    "description": "This Channel is dedicated to quality mathematics education.  It is absolutely FREE so Enjoy!  Videos are organized in playlists and are course specific.  If they have helped you, consider Support:\n\nYou may find and support me at Patreon.com/Professorleonard\n\nPlease consider \"Whitelisting\" this Channel on your AdBlock if it is enabled.  \n\nYour support is GREATLY appreciated and is what helps fund more video creation.  Thanks!!",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/ProfessorLeonard.jpeg"
+  },
+  "GitHub": {
+    "full_name": "GitHub",
+    "link": "https://www.youtube.com/@GitHub",
+    "title": "GitHub",
+    "description": "GitHub is the AI-powered developer platform to build, scale, and deliver secure software. We make it easier for developers to be developers: to work together, to solve challenging problems, and to create the world’s most important technologies. We foster a collaborative community that can come together—as individuals and in teams—to create the future of software and make a difference in the world.\n\nThe GitHub platform is where developers can create, share, and ship the best code possible. Our community is made up of students, hobbyists, consultants, enterprise professionals, partners, and executives, building software in the way that works best for them.\n\nGitHub is much more than code. It is the home of open-source collaboration. It is where new developers get started and where experienced developers expand their knowledge. It is a community where developers come together to solve the unsolvable and test the limits of what software can do.\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/GitHub.jpeg"
+  },
+  "ChromeDevs": {
+    "full_name": "ChromeDevs",
+    "link": "https://www.youtube.com/@ChromeDevs",
+    "title": "Chrome for Developers",
+    "description": "Helping you build, grow and innovate on the web.\n\nChrome will disable third-party cookies for 1% of users from the start of 2024. Test your site now for any breakages → https://goo.gle/3NielGG\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/ChromeDevs.jpeg"
+  },
+  "raycastapp": {
+    "full_name": "raycastapp",
+    "link": "https://www.youtube.com/@raycastapp",
+    "title": "Raycast",
+    "description": "Your shortcut to everything.\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/raycastapp.jpeg"
+  },
+  "warpdotdev": {
+    "full_name": "warpdotdev",
+    "link": "https://www.youtube.com/@warpdotdev",
+    "title": "Warp",
+    "description": "Warp is the terminal with AI and your dev team's knowledge built-in.\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/warpdotdev.jpeg"
+  },
+  "gitbutlerapp": {
+    "full_name": "gitbutlerapp",
+    "link": "https://www.youtube.com/@gitbutlerapp",
+    "title": "GitButler",
+    "description": "Work on multiple branches at the same time ✨",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/gitbutlerapp.jpeg"
+  },
+  "MicrosoftDeveloper": {
+    "full_name": "MicrosoftDeveloper",
+    "link": "https://www.youtube.com/@MicrosoftDeveloper",
+    "title": "Microsoft Developer",
+    "description": "Official Microsoft Developer YouTube channel! Featuring live events, tips and tutorials, product news and more to help you explore, discover, and build solutions - using your favorite languages, technologies, and open-source frameworks.\n\nMore information visit https://developer.microsoft.com \n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/MicrosoftDeveloper.jpeg"
+  },
+  "GOTO-": {
+    "full_name": "GOTO-",
+    "link": "https://www.youtube.com/@GOTO-",
+    "title": "GOTO Conferences",
+    "description": "GOTO gathers the brightest minds in the software community to help developers tackle projects today, plan for tomorrow and create a better future.\n\nLearn from thought leaders and innovators with top-rated videos released daily, and at our year-round conferences, masterclasses and meetups.\n\nGet started: https://gotopia.tech\n\nGOTO is produced by Trifork, a leading full-service supplier of high-quality, custom-built applications and end-to-end solutions.\n\nGOTO YouTube Channel Code of Conduct: https://blog.gotocon.com/yt-coc\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/GOTO-.jpeg"
+  },
+  "NDC": {
+    "full_name": "NDC",
+    "link": "https://www.youtube.com/@NDC",
+    "title": "NDC Conferences",
+    "description": "NDC Conferences aims to find the greatest minds and leaders in the field of software development, striving to make the best and most updated knowledge available to developers everywhere. \n\nJoin these innovative speakers on our YouTube channel and at our year-round conferences in Oslo, London, Porto, Copenhagen and Sydney!\n\nWe hope to see you in person at our live events: \nhttps://ndcoslo.com/  \nhttps://ndclondon.com/\nhttps://ndcporto.com/ \nhttps://cphdevfest.com/ \nhttps://ndcsydney.com/ \n\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/NDC.jpeg"
+  },
+  "StrangeLoopConf": {
+    "full_name": "StrangeLoopConf",
+    "link": "https://www.youtube.com/@StrangeLoopConf",
+    "title": "Strange Loop Conference",
+    "description": "Videos from the Strange Loop conference in St. Louis, MO.",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/StrangeLoopConf.jpeg"
+  },
+  "linuxconfau": {
+    "full_name": "linuxconfau",
+    "link": "https://www.youtube.com/@linuxconfau",
+    "title": "linux.conf.au",
+    "description": "linux.conf.au is an annual conference in Australia or New Zealand, with a focus on Linux, the community that has built up around it and the values that it represents. It is a deeply technical conference covering topics varying from the inner workings of the Linux kernel to the inner workings of dealing with communities.",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/linuxconfau.jpeg"
+  },
+  "NixCon": {
+    "full_name": "NixCon",
+    "link": "https://www.youtube.com/@NixCon",
+    "title": "NixCon",
+    "description": "NixCon is a community-oriented conference for contributors and users of Nix and NixOS. It's about sharing experiences, inspiring people and discussing future development. We would like to learn about how you use Nix and NixOS in your organization and what you are currently working on. The growth of NixOS as a project brings its own challenges and we would like to know how you think the user experience can be improved and how NixOS can be scaled.",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/NixCon.jpeg"
+  },
+  "Reversim-summit": {
+    "full_name": "Reversim-summit",
+    "link": "https://www.youtube.com/@Reversim-summit",
+    "title": "Reversim",
+    "description": "Reversim Summit is an israeli mostly Hebrew speaking yearly developer conference. \nכנס רברסים הוא כנס שנתי למפתחי תכנה\n\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/Reversim-summit.jpeg"
+  },
+  "freecodecamp": {
+    "full_name": "freecodecamp",
+    "link": "https://www.youtube.com/@freecodecamp",
+    "title": "freeCodeCamp.org",
+    "description": "Learn to code for free.",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/freecodecamp.jpeg"
+  },
+  "academind": {
+    "full_name": "academind",
+    "link": "https://www.youtube.com/@academind",
+    "title": "Academind",
+    "description": "There's always something to learn!\n\nWe create courses and tutorials on tech-related topics since 2016!\n\nWe teach development and web development (Python, React.js, JavaScript, Next.js, Flutter and many more) but also new technologies like ChatGPT. Check our YouTube channel, official website and social media and start learning today!\n\n🖥️ Official Website\nhttps://academind.com/\n\n🎥 Udemy Courses\nhttps://www.udemy.com/user/academind\n\n👉Academind Pro Membership (50+ courses included)\nhttps://pro.academind.com/\n\n🤝 Social Media\n• Twitter: @maxedapps (https://twitter.com/maxedapps) and @academind_real (https://twitter.com/academind_real)\n• Instagram: @academind_real (https://www.instagram.com/academind_real/)\n• Facebook: academindchannel (https://www.facebook.com/academindchannel)\n\n💻 Academind Official Website\nhttps://academind.com/\n\nSee you in the videos!\n\nImprint: https://academind.com/impressum/en\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/academind.jpeg"
+  },
+  "programmingwithmosh": {
+    "full_name": "programmingwithmosh",
+    "link": "https://www.youtube.com/@programmingwithmosh",
+    "title": "Programming with Mosh",
+    "description": "Hi! I'm Mosh 👋, a software engineer with over 20 years of experience.  I'm all about clear, concise, practical coding tutorials – no fluff, just the good stuff! My courses focus on real-world projects and the skills that will get you hired. I've helped millions of students transform their careers. \n\nWant to level up your skills? Subscribe and hit the bell to get notified when I upload new videos!\n\nFor sponsorships: partners@codewithmosh.com\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/programmingwithmosh.jpeg"
+  },
+  "TheCodingTrain": {
+    "full_name": "TheCodingTrain",
+    "link": "https://www.youtube.com/@TheCodingTrain",
+    "title": "The Coding Train",
+    "description": "All aboard! The Coding Train is on its way with creative coding video tutorials on subjects ranging from the basics of programming languages like JavaScript to algorithmic art, machine learning, simulation, generative poetry, and more. Choo choo!",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/TheCodingTrain.jpeg"
+  },
+  "CodingTech": {
+    "full_name": "CodingTech",
+    "link": "https://www.youtube.com/@CodingTech",
+    "title": "Coding Tech",
+    "description": "Coding Tech partners with the tech conferences around the world that provided Coding Tech with their EXPLICIT permissions to republish videos on this channel. Here's the list of Conferences that provided Coding Tech with EXPLICIT written publication permissions: PyData, MLConf, Build Stuff, Code::dive, PolyConf, AmsterdamJS, React Amsterdam, ReactiveConf, Jazoon Tech Days, SFNode, CppCon, Infinite Red, GDG Lviv, Mibuso.com, You Gotta Love Frontend, React Native EU, Node Summit, NodeConfEU, ConFoo, Pixels Camp, JavaScriptLA, The Linux Foundation, Oredev Conference, Techlahoma, fitcevents. Coding Tech also re-posts content which was originally published with the Creative Commons Attribution license (reuse allowed).\n\nFor business inquiries, please connect on Twitter: https://twitter.com/yuriymatso",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/CodingTech.jpeg"
+  },
+  "codebasics": {
+    "full_name": "codebasics",
+    "link": "https://www.youtube.com/@codebasics",
+    "title": "codebasics",
+    "description": "I am Dhaval Patel, an AI professional with 14 years of experience with big tech companies such as Bloomberg and NVIDIA. I am also a co-founder of AI services company AtliQ. The co-founder of this channel Hemanand Vadivel has 6+ years of DATA INDUSTRY experience in Europe. We teach data analytics, data science, and AI on this channel. All our content is highly relevant to the industry.\n\nVisit https://codebasics.io/ for my video courses that teach technology most simplistically and practically!\n\nFor all Business and Sponsorship-related inquiries, don't hesitate to get in touch with business@codebasics.io.\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/codebasics.jpeg"
+  },
+  "ThePrimeagen": {
+    "full_name": "ThePrimeagen",
+    "link": "https://www.youtube.com/@ThePrimeagen",
+    "title": "ThePrimeagen",
+    "description": "Vim - Rust - TypeScript",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/ThePrimeagen.jpeg"
+  },
+  "ThePrimeTimeagen": {
+    "full_name": "ThePrimeTimeagen",
+    "link": "https://www.youtube.com/@ThePrimeTimeagen",
+    "title": "ThePrimeTime",
+    "description": "This is a place for all the things that are awesome on stream. ",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/ThePrimeTimeagen.jpeg"
+  },
+  "Changelog": {
+    "full_name": "Changelog",
+    "link": "https://www.youtube.com/@Changelog",
+    "title": "Changelog",
+    "description": "Simply the best podcasts for developers.\n\nWe ship weekly shows about developer culture, software development, open source, building startups, artificial intelligence, web development, and the people involved.\n\nOur podcasts include The Changelog, Changelog News, Changelog Interviews, Changelog & Friends, Practical AI, JS Party, Ship It! & Go Time.\n\nWe also track, log, and contextualize the goings on around the software community. Our Changelog News(letter) is beloved by thousands of developers around the world.\n\nJoin our global hacker community at https://changelog.com/community",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/Changelog.jpeg"
+  },
+  "syntaxfm": {
+    "full_name": "syntaxfm",
+    "link": "https://www.youtube.com/@syntaxfm",
+    "title": "Syntax",
+    "description": "Hosted by Wes Bos and Scott Tolinski since 2017, Syntax has published over 800 podcast episodes on full-stack web development, covering everything from HTML, CSS, JavaScript, server side languages, databases, deployment environments, and more.\n\nIn 2023 Syntax.fm joined forces with Level Up Tutorials adding 2000+ free video tutorials to our library.\n\nWes Bos is co-host of Syntax and a web development educator. Constantly learning, he creates web development courses focused on JavaScript, TypeScript, React, CSS, Node.js and whatever else comes his way.\n\nScott Tolinski is co-host of Syntax and the creator of Level Up Tutorials. In his free time Scott is a dedicated Bboy (breakdancer) & enjoys pushing himself athletically through dance, working out and snowboarding.\n\nCJ joined the team to help make YouTube videos that dive deeper into topics covered on the podcast. He is a full stack software developer and the host of Coding Garden.\n\nSyntax is brought to you by Sentry (https://sentry.io)\n",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/syntaxfm.jpeg"
+  },
+  "devtoolsfm": {
+    "full_name": "devtoolsfm",
+    "link": "https://www.youtube.com/@devtoolsfm",
+    "title": "devtools-fm",
+    "description": "Hi, we're Andrew and Justin, two developers passionate about developer tooling. We started devtools.fm to explore this passion, to meet interesting people in the field, and to share our conversations with the world. ",
+    "avatar_thumbnail": "/yedidya-dev-picks/logos/devtoolsfm.jpeg"
+  }
+}

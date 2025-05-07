@@ -7,39 +7,49 @@ interface Props {
 }
 
 const { category } = Astro.props;
-const hasChannels = category.subcategories.some(sub => sub.channels.length > 0);
+const hasChannels = category.subcategories.some(
+  (sub) => sub.channels.length > 0
+);
 ---
 
 <section class="category-section">
   <div class="category-header">
     <h2>{category.name}</h2>
     <span class="channel-count">
-      {category.subcategories.reduce((acc, sub) => acc + sub.channels.length, 0)} channels
+      {
+        category.subcategories.reduce(
+          (acc, sub) => acc + sub.channels.length,
+          0
+        )
+      } channels
     </span>
   </div>
-  {hasChannels && (
-    <div class="subcategories-grid">
-      {category.subcategories.map((subcategory) => (
-        subcategory.channels.length > 0 && (
-          <div class="subcategory">
-            {subcategory.name !== "General" && <h3>{subcategory.name}</h3>}
-            <ul class="channels-list">
-              {subcategory.channels.map((channel) => (
-                <ChannelCard channel={channel} />
-              ))}
-            </ul>
-          </div>
-        )
-      ))}
-    </div>
-  )}
+  {
+    hasChannels && (
+      <div class="subcategories-grid">
+        {category.subcategories.map(
+          (subcategory) =>
+            subcategory.channels.length > 0 && (
+              <div class="subcategory">
+                {subcategory.name !== 'General' && <h3>{subcategory.name}</h3>}
+                <ul class="channels-list">
+                  {subcategory.channels.map((channel) => (
+                    <ChannelCard channel={channel} />
+                  ))}
+                </ul>
+              </div>
+            )
+        )}
+      </div>
+    )
+  }
 </section>
 
 <style>
   .category-section {
     background: var(--surface-2);
     border-radius: 16px;
-    padding: 2rem;
+    padding: 4rem;
     transition: all 0.3s;
     position: relative;
     overflow: hidden;
@@ -64,7 +74,7 @@ const hasChannels = category.subcategories.some(sub => sub.channels.length > 0);
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-bottom: 2rem;
+    padding: 0 1rem;
   }
 
   .category-header h2 {
@@ -122,25 +132,27 @@ const hasChannels = category.subcategories.some(sub => sub.channels.length > 0);
   .channels-list {
     list-style: none;
     padding: 0;
-    margin: 0;
+    margin: 1.5rem 0.5rem;
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
-    gap: 0.75rem;
+    gap: 4rem 1rem;
   }
 
   @media (max-width: 768px) {
     .category-section {
-      padding: 1.5rem;
+      padding: 0.5rem;
+      padding-bottom: 2rem;
     }
 
     .category-header {
       flex-direction: column;
       align-items: flex-start;
       gap: 0.5rem;
+      padding: 0 1rem;
     }
 
     .channels-list {
-      grid-template-columns: 1fr;
+      gap: 3rem;
     }
   }
-</style> 
+</style>

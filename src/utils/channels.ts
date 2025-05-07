@@ -1,4 +1,4 @@
-import type { Category, YouTubeChannel } from "../types/channel";
+import type { Category, YouTubeChannel } from '../types/channel';
 
 interface TaggedChannel {
   title: string;
@@ -8,6 +8,9 @@ interface TaggedChannel {
 interface ChannelInfo {
   full_name: string;
   link: string;
+  title: string;
+  description: string;
+  avatar_thumbnail: string;
 }
 
 interface ChannelsByTag {
@@ -18,8 +21,8 @@ interface ChannelsInfo {
   [key: string]: ChannelInfo;
 }
 
-import channelsByTagData from "../../channels_by_tag.json";
-import channelsInfoData from "../../channels.json";
+import channelsByTagData from '../../channels_by_tag.json';
+import channelsInfoData from '../../channelsExtended.json';
 
 const channelsByTag = channelsByTagData as ChannelsByTag;
 const channelsInfo = channelsInfoData as ChannelsInfo;
@@ -31,14 +34,18 @@ export function loadChannels(): Category[] {
       name: taggedData.title,
       subcategories: [
         {
-          name: "General",
+          name: 'General',
           channels: taggedData.channels.map((channelId) => {
             const channelInfo = channelsInfo[channelId];
+
             return {
-              name: channelInfo.full_name,
-              url: channelInfo.link,
-              category: taggedData.title,
-              subcategory: "General",
+              name: channelInfo?.full_name,
+              url: channelInfo?.link,
+              category: taggedData?.title,
+              subcategory: 'General',
+              title: channelInfo?.title,
+              description: channelInfo?.description,
+              avatar_thumbnail: channelInfo?.avatar_thumbnail,
             };
           }),
         },

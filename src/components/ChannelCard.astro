@@ -1,26 +1,54 @@
 ---
-import type { YouTubeChannel } from '../types/channel';
+import type { Channel } from '../types/channel';
 
 interface Props {
-  channel: YouTubeChannel;
+  channel: Channel;
 }
 
 const { channel } = Astro.props;
+
 ---
 
-<li class="channel-card">
-  <a href={channel.url} target="_blank" rel="noopener noreferrer">
+{
+  channel.name &&(
+  <li class="channel-card">
+  <a
+    href={channel.url}
+    target="_blank"
+    rel="noopener noreferrer"
+  >
     <div class="channel-content">
       <div class="channel-info">
-        <h3>{channel.name}</h3>
-        {channel.description && <p class="description">{channel.description}</p>}
+        <div class="channel-header">
+          <h3>{channel.name.substring(0,17)}</h3>
+        <img
+          src={channel.avatar_thumbnail ||
+            'https://api.iconify.design/openmoji:youtube.svg'}
+          alt="logo"
+          width={50}
+          height={50}
+          style="border-radius: 50%; margin-left: 0.5rem;"
+        />
+        </div>
+
+        <hr/>
+        
+        {
+          channel.description ? (
+            <p class="description">{channel.description}</p>
+          ):(
+            <p class="description">More info in the YouTube channel</p>
+          )
+        }
       </div>
-      <div class="channel-meta">
+      <!-- <div class="channel-meta">
         {channel.subscriberCount && <span class="subscribers">{channel.subscriberCount}</span>}
-      </div>
+      </div> -->
     </div>
   </a>
 </li>
+  )
+}
 
 <style>
   .channel-card {
@@ -35,9 +63,10 @@ const { channel } = Astro.props;
     display: block;
     background: var(--surface-1);
     border-radius: 12px;
-    padding: 1.25rem;
+    padding: 1rem 1.25rem;
     transition: all 0.3s;
     border: 1px solid var(--surface-3);
+    height: 100%;
   }
 
   .channel-card a:hover {
@@ -45,6 +74,14 @@ const { channel } = Astro.props;
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
     border-color: var(--primary);
     background: var(--surface-2);
+  }
+
+  .channel-header{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 1rem;
   }
 
   .channel-content {
@@ -68,6 +105,12 @@ const { channel } = Astro.props;
     color: var(--text-2);
     margin: 0;
     line-height: 1.5;
+    max-height: 160px;
+    overflow: scroll;
+  }
+
+  .description::-webkit-scrollbar {
+    display: none;
   }
 
   .channel-meta {
@@ -103,5 +146,10 @@ const { channel } = Astro.props;
     .channel-card a {
       padding: 1rem;
     }
+
+    .channel-header{
+      flex-direction: column;
+      gap:0.5rem;
+    }
   }
-</style> 
+</style>
