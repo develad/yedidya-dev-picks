@@ -6,6 +6,8 @@ export interface YouTubeChannel {
   subscriberCount?: string;
   category: string;
   subcategory?: string;
+  title: string;
+  avatar_thumbnail: string;
 }
 
 export interface Category {
@@ -27,4 +29,6 @@ export interface Channel {
   videoCount?: string;
   category?: string;
   subcategory?: string;
+  title: string;
+  avatar_thumbnail: string;
 }
