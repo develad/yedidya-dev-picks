@@ -1,6 +1,7 @@
 ---
 import type { Category } from '../types/channel';
 import ChannelCard from './ChannelCard.astro';
+import Arrow from './SolarRoundAltArrowRightBold.astro';
 
 interface Props {
   category: Category;
@@ -15,18 +16,22 @@ const hasChannels = category.subcategories.some(
 <section class="category-section">
   <div class="category-header">
     <h2>{category.name}</h2>
-    <span class="channel-count">
-      {
-        category.subcategories.reduce(
-          (acc, sub) => acc + sub.channels.length,
-          0
-        )
-      } channels
-    </span>
+    <div class="category-subheader">
+      <span class="channel-count">
+        {
+          category.subcategories.reduce(
+            (acc, sub) => acc + sub.channels.length,
+            0
+          )
+        } channels
+      </span>
+      <Arrow class="arrow" />
+    </div>
   </div>
+
   {
     hasChannels && (
-      <div class="subcategories-grid">
+      <div class="subcategories-grid hide">
         {category.subcategories.map(
           (subcategory) =>
             subcategory.channels.length > 0 && (
@@ -97,6 +102,12 @@ const hasChannels = category.subcategories.some(
     transition: all 0.2s;
   }
 
+  .category-subheader {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+  }
+
   .category-section:hover .channel-count {
     background: var(--primary-light);
     color: white;
@@ -106,6 +117,27 @@ const hasChannels = category.subcategories.some(
   .subcategories-grid {
     display: grid;
     gap: 2rem;
+    opacity: 1;
+    height: 100%;
+    transition: all 0.4s cubic-bezier(0.755, 0.05, 0.855, 0.06);
+  }
+
+  .hide {
+    opacity: 0;
+    height: 0;
+  }
+
+  .arrow {
+    width: fit-content;
+    font-size: 2.2rem;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  .rotate {
+    transform: rotate(90deg);
+    transition: all 0.2s ease;
   }
 
   .subcategory h3 {
@@ -148,7 +180,7 @@ const hasChannels = category.subcategories.some(
       flex-direction: column;
       align-items: flex-start;
       gap: 0.5rem;
-      padding: 0 1rem;
+      margin-bottom: 1rem;
     }
 
     .channels-list {
@@ -156,3 +188,15 @@ const hasChannels = category.subcategories.some(
     }
   }
 </style>
+
+<script>
+  const subcategoriesGrid = document.querySelectorAll('.subcategories-grid');
+  const arrow = document.querySelectorAll('.arrow');
+
+  subcategoriesGrid.forEach((subGrid, index) => {
+    arrow[index]?.addEventListener('click', () => {
+      arrow[index]?.classList.toggle('rotate');
+      subGrid?.classList.toggle('hide');
+    });
+  });
+</script>
